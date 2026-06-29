@@ -1,7 +1,7 @@
 # AI Trader — Daily Log
 
 What the robot saw and did each time it woke up. Newest at top.
-_Last updated: Jun 26, 2026 at 03:52 PM ET_
+_Last updated: Jun 29, 2026 at 08:30 AM ET_
 
 📱 [Ask Claude about this on your phone](../PHONE_README.md)
 
@@ -12,18 +12,18 @@ _Leaders: MU +17.1%, AMD +1.1%, CRWD +1.1%_
 _Cumulative since baseline — not today's move (see above)._
 | | Return | Value |
 |---|---|---|
-| 📈 **Our Portfolio** | **+12.32%** | \$112,322.05 |
-| 📈 S&P 500 (SPY) | +0.21% | \$733.04 |
-| ✅ **Alpha** | **+12.12%** | Beating the market |
+| 📈 **Our Portfolio** | **+13.18%** | \$113,178.59 |
+| 📉 S&P 500 (SPY) | -0.30% | \$729.35 |
+| ✅ **Alpha** | **+13.48%** | Beating the market |
 
 ### Current Portfolio
 
 | Stock | Shares | Bought at | Current | P&L |
 |---|---|---|---|---|
-| 📈 **RIOT** | 476 | \$26.48 | \$28.65 | +8.2% (\$+1,033) |
-| 📈 **ABSI** | 1147 | \$10.52 | \$10.69 | +1.6% (\$+195) |
+| 📈 **RIOT** | 476 | \$26.48 | \$28.95 | +9.3% (\$+1,176) |
+| 📈 **ABSI** | 1147 | \$10.52 | \$11.09 | +5.4% (\$+655) |
 
-✅ **Total open P&L: \$+1,228** across \$25,899 invested
+✅ **Total open P&L: \$+1,831** across \$26,501 invested
 
 **🌍 Market-wide news:** _(macro / geopolitics — not tied to one ticker)_
 - Workers At Woodward MPC Outside Chicago Vote Overwhelmingly To Authorize Strike, Announce Practice Picket
@@ -55,8 +55,8 @@ _Subtotal of these 10: **\$-4,548** — the older 31 trades (incl. the biggest w
 
 **Record:** 41 trades, **32%** win rate, avg +1.2%, realized P&L **\$+11,349**
 - 💰 **Realized** (closed trades): \$+11,349
-- 📊 **Unrealized** (open positions right now): \$+1,228
-- **= Total account gain: \$+12,577**
+- 📊 **Unrealized** (open positions right now): \$+1,831
+- **= Total account gain: \$+13,180**
 
 **By strategy:**
 | Strategy | Trades | Win % | Avg P&L | Total P&L |
@@ -68,19 +68,6 @@ _Subtotal of these 10: **\$-4,548** — the older 31 trades (incl. the biggest w
 | ❌ News | 10 | 30% | -0.2% | \$-1,554 |
 | ❌ UNKNOWN | 2 | 50% | -2.7% | \$-967 |
 
-</details>
-
-<details><summary>📊 Prediction scorecard (did the earnings calls work?)</summary>
-
-**Directional calls: 0/2 correct (0%)** · avg move if you traded each call: **-13.2%** → ❌ not tradeable — fading these would have done better
-
-| Stock | Earnings | Predicted | Actual move | Result |
-|---|---|---|---|---|
-| CRWD | 2026-06-03 | 📈 up | -10.7% | ❌ miss |
-| AVGO | 2026-06-03 | 📈 up | -15.6% | ❌ miss |
-| PANW | 2026-06-02 | ⚪ coin-flip | -6.8% | — |
-
-_'Actual move' = pre-earnings close → post-earnings close. Sample is still small; this grows as more reports land._
 </details>
 
 <details><summary>📅 Upcoming Events & Predictions</summary>
@@ -120,7 +107,40 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 </details>
 
+## Jun 29, 08:30 AM ET — Pre-market check | Pi: 47.2°C
+
+**Market check:**
+- Trend is **choppy / sideways**
+- Currently holding: ABSI, RIOT
+- Scoreboard: Us **+13.18%** vs S&P 500 -0.30% (**beating** by 13.48%)
+
+**S&P 500 pre-market:** +1.09% 📈
+
+**📌 Your positions:**
+- ✅ **ABSI** — steady, no overnight news
+- ✅ **RIOT** — steady, no overnight news
+
+**👀 Watchlist (not held):**
+- 🚀 **MSTR** — gapping +7.3% on positive news (+2) — watch at 9:30 open
+- ✓ **AMD** — neutral news (+1), gapping +1.6%
+    - _Samsung, SK Hynix To Build Four New Chip Plants As South Korea Unveils \$520 Billion AI Push_
+- ✗ **SNDK** — neutral news (-1)
+    - _5 Stock Picks Last Week From Wall Street's Most Accurate Analysts_
+- ✓ **GOOGL** — positive news (+2), gapping +1.6%
+    - _Samsung, SK Hynix To Build Four New Chip Plants As South Korea Unveils \$520 Billion AI Push_
+- ✓ **TSLA** — positive news (+2)
+    - _Tesla Stock In Focus: Regulatory Twists, Q2 Delivery Countdown, 16 GW Energy Partnership_
+- ✗ **MSFT** — neutral news (-1), gapping +2.2%
+    - _Booz Allen Hamilton Collaborates With OpenAI Over Advanced AI Innovation Throughout Federal Security, Critical Infrastructure Missions_
+- ✗ **AAPL** — neutral news (-1)
+    - _Reuters Reported Apple Asked India Antitrust Watchdog To Quash All Findings Against Company, Accused Regulator Of Copy-Pasting Rivals' Claims Without Independent Analysis, Citing Documents_
+
+---
+
 ## Jun 26, 03:52 PM ET — Scan | Pi: 51.1°C
+
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/6 — running on thin IEX volume (surge detection + liquidity gate degraded)
 
 **Market check:**
 - Today the S&P 500 is **flat** ➡️
@@ -195,6 +215,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 ---
 
 ## Jun 26, 03:02 PM ET — Scan | Pi: 48.2°C
+
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/6 — running on thin IEX volume (surge detection + liquidity gate degraded)
 
 **Market check:**
 - Today the S&P 500 is **down by 0.23%** 📉
@@ -273,6 +296,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 ## Jun 26, 01:02 PM ET — Scan | Pi: 53.6°C
 
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/86 — running on thin IEX volume (surge detection + liquidity gate degraded)
+
 **Market check:**
 - Today the S&P 500 is **up by 0.15%** 📈
 - Trend is **choppy / sideways**
@@ -344,6 +370,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 ---
 
 ## Jun 26, 11:07 AM ET — Scan | Pi: 53.6°C
+
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/86 — running on thin IEX volume (surge detection + liquidity gate degraded)
 
 **Market check:**
 - Today the S&P 500 is **down by 0.08%** 📉
@@ -432,6 +461,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 ## Jun 26, 11:02 AM ET — Scan | Pi: 52.6°C
 
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/86 — running on thin IEX volume (surge detection + liquidity gate degraded)
+
 **Market check:**
 - Today the S&P 500 is **down by 0.12%** 📉
 - Trend is **choppy / sideways**
@@ -508,6 +540,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 ---
 
 ## Jun 26, 09:35 AM ET — Scan | Pi: 53.1°C
+
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/86 — running on thin IEX volume (surge detection + liquidity gate degraded)
 
 **Market check:**
 - Today the S&P 500 is **down by 0.66%** 📉
@@ -612,6 +647,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 ---
 
 ## Jun 25, 03:54 PM ET — Scan | Pi: 46.7°C
+
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/85 — running on thin IEX volume (surge detection + liquidity gate degraded)
 
 **Market check:**
 - Today the S&P 500 is **down by 0.22%** 📉
@@ -793,6 +831,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 ## Jun 25, 09:37 AM ET — Scan | Pi: 48.2°C
 
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/82 — running on thin IEX volume (surge detection + liquidity gate degraded)
+
 **Market check:**
 - Today the S&P 500 is **up by 0.54%** 📈
 - Trend is **choppy / sideways**
@@ -903,6 +944,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 ---
 
 ## Jun 24, 03:54 PM ET — Scan | Pi: 53.6°C
+
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/82 — running on thin IEX volume (surge detection + liquidity gate degraded)
 
 **Market check:**
 - Today the S&P 500 is **down by 0.20%** 📉
@@ -1076,6 +1120,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 ## Jun 24, 09:37 AM ET — Scan | Pi: 51.1°C
 
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/82 — running on thin IEX volume (surge detection + liquidity gate degraded)
+
 **Market check:**
 - Today the S&P 500 is **up by 0.34%** 📈
 - Trend is **choppy / sideways**
@@ -1192,6 +1239,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 ---
 
 ## Jun 23, 03:53 PM ET — Scan | Pi: 51.1°C
+
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/80 — running on thin IEX volume (surge detection + liquidity gate degraded)
 
 **Market check:**
 - Today the S&P 500 is **down by 1.29%** 📉
@@ -1353,6 +1403,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 ## Jun 23, 09:36 AM ET — Scan | Pi: 48.7°C
 
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/79 — running on thin IEX volume (surge detection + liquidity gate degraded)
+
 **Market check:**
 - Today the S&P 500 is **down by 1.41%** 📉
 - Trend is **choppy / sideways**
@@ -1460,6 +1513,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 ---
 
 ## Jun 22, 03:52 PM ET — Scan | Pi: 48.7°C
+
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/78 — running on thin IEX volume (surge detection + liquidity gate degraded)
 
 **Market check:**
 - Today the S&P 500 is **down by 0.40%** 📉
@@ -1611,6 +1667,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 ## Jun 22, 09:35 AM ET — Scan | Pi: 44.8°C
 
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/81 — running on thin IEX volume (surge detection + liquidity gate degraded)
+
 **Market check:**
 - Today the S&P 500 is **up by 0.29%** 📈
 - Trend is **choppy / sideways**
@@ -1714,6 +1773,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 ---
 
 ## Jun 19, 03:53 PM ET — Scan | Pi: 48.7°C
+
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/83 — running on thin IEX volume (surge detection + liquidity gate degraded)
 
 **Market check:**
 - Today the S&P 500 is **up by 0.77%** 📈
@@ -1846,6 +1908,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 ## Jun 19, 09:36 AM ET — Scan | Pi: 46.7°C
 
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/83 — running on thin IEX volume (surge detection + liquidity gate degraded)
+
 **Market check:**
 - Today the S&P 500 is **up by 0.77%** 📈
 - Trend is **choppy / sideways**
@@ -1940,6 +2005,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 ---
 
 ## Jun 18, 03:57 PM ET — Scan | Pi: 49.7°C
+
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/83 — running on thin IEX volume (surge detection + liquidity gate degraded)
 
 **Market check:**
 - Today the S&P 500 is **up by 0.81%** 📈
@@ -2084,6 +2152,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 ## Jun 18, 09:36 AM ET — Scan | Pi: 48.7°C
 
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/83 — running on thin IEX volume (surge detection + liquidity gate degraded)
+
 **Market check:**
 - Today the S&P 500 is **up by 0.84%** 📈
 - Trend is **choppy / sideways**
@@ -2195,6 +2266,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 ---
 
 ## Jun 17, 03:53 PM ET — Scan | Pi: 49.7°C
+
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/82 — running on thin IEX volume (surge detection + liquidity gate degraded)
 
 **Market check:**
 - Today the S&P 500 is **down by 1.31%** 📉
@@ -2362,6 +2436,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 ## Jun 17, 09:36 AM ET — Scan | Pi: 51.1°C
 
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/82 — running on thin IEX volume (surge detection + liquidity gate degraded)
+
 **Market check:**
 - Today the S&P 500 is **flat** ➡️
 - Trend is **choppy / sideways**
@@ -2467,6 +2544,9 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 ---
 
 ## Jun 16, 03:52 PM ET — Scan | Pi: 49.7°C
+
+> 🩺 **System health:**
+> - ⚠ Volume patching 0/81 — running on thin IEX volume (surge detection + liquidity gate degraded)
 
 **Market check:**
 - Today the S&P 500 is **down by 0.52%** 📉
@@ -2580,57 +2660,3 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 </details>
 
 ---
-
-## Jun 16, 11:07 AM ET — News check | Pi: 51.1°C
-
-**Market check:**
-- Today the S&P 500 is **down by 0.20%** 📉
-- Currently holding: ANET, COIN, FCX, MRVL, QBTS
-- Scoreboard: Us **+17.52%** vs S&P 500 +2.97% (**beating** by 14.55%)
-
-**Result:** No trades today.
-<details><summary>Notable news today</summary>
-
-- ✓ **MU** — strong positive news (+5)
-    - _Elizabeth Warren Says Your Wages Are Stalled, But Trump's Net Worth Is Up \$1.4 Billion: President 'Doesn't Care' About Your Financial Situation_
-- ✓ **QBTS** — strong positive news (+4)
-    - _Nancy Pelosi Stock Tracker Highlights D-Wave's 35% Surge Since \$100 Million CHIPS Act Investment_
-- ✓ **DELL** — positive news (+2)
-    - _Dell's Momentum Score Jumps As AI Server Revenue Surges Over 750% Amid Data Center Demand_
-- ✗ **SPY** — negative news (-3)
-    - _SpaceX Crypto Squeeze; Bonds Do Not Share Stock Market Euphoria;  Warsh Era Begins_
-- ✗ **GOOGL** — negative news (-2)
-- ✗ **QQQ** — negative news (-2)
-    - _SpaceX Crypto Squeeze; Bonds Do Not Share Stock Market Euphoria;  Warsh Era Begins_
-
-</details>
-
----
-
-
-## 📈 Market Movers — did we miss a sign?
-
-- • **SDOT** +238.7% (\$20.93)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 45, below 20-MA, 5d -62%
-    - Why not us: not on the watchlist
-    - Catalyst (news -1): _[-] Nasdaq Falls Over 200 Points; US Goods Trade Gap Widens In May_
-- • **GOGL** +209.5% (\$24.7)
-    - Sign: NO — was oversold/falling (reversal bounce, not a momentum signal)  |  pre-move RSI 0, below 20-MA, 5d +0%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _No recent news_
-- • **BEZ** +36.1% (\$16.95)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 52, below 20-MA, 5d -22%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _No recent news_
-- • **CABO** +25.0% (\$50.83)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 36, below 20-MA, 5d -6%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _[~] 11 Communication Services Stocks Moving In Friday's Intraday Session_
-- • **SLON** +23.8% (\$17.8)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 54, below 20-MA, 5d -2%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _No recent news_
-- • **FCEL** +23.8% (\$24.33)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 50, below 20-MA, 5d -2%
-    - Why not us: not on the watchlist
-    - Catalyst (news +5): _[~] 12 Industrials Stocks Moving In Friday's Intraday Session_
