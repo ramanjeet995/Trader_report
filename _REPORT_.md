@@ -1,29 +1,30 @@
 # AI Trader — Daily Log
 
 What the robot saw and did each time it woke up. Newest at top.
-_Last updated: Jun 29, 2026 at 11:01 AM ET_
+_Last updated: Jun 29, 2026 at 11:06 AM ET_
 
 📱 [Ask Claude about this on your phone](../PHONE_README.md)
 
-**Market today:** 📈 S&P 500 **+1.16%** (up), Nasdaq **+1.43%** — broad-based rally
-_Leaders: CRWD +7.2%, AMZN +6.3%, TSLA +4.9%_
+**Market today:** 📈 S&P 500 **+1.10%** (up), Nasdaq **+1.41%** — broad-based rally
+_Leaders: CRWD +7.3%, AMZN +6.2%, TSLA +4.7%_
 
 ### Performance since 2026-05-07
 _Cumulative since baseline — not today's move (see above)._
 | | Return | Value |
 |---|---|---|
-| 📈 **Our Portfolio** | **+13.06%** | \$113,060.01 |
-| 📈 S&P 500 (SPY) | +0.86% | \$737.80 |
-| ✅ **Alpha** | **+12.20%** | Beating the market |
+| 📈 **Our Portfolio** | **+12.88%** | \$112,880.45 |
+| 📈 S&P 500 (SPY) | +0.80% | \$737.38 |
+| ✅ **Alpha** | **+12.08%** | Beating the market |
 
 ### Current Portfolio
 
 | Stock | Shares | Bought at | Current | P&L |
 |---|---|---|---|---|
-| 📈 **ABSI** | 1147 | \$10.52 | \$11.46 | +8.9% (\$+1,078) |
-| 📈 **RIOT** | 476 | \$26.48 | \$27.62 | +4.3% (\$+545) |
+| 📈 **ABSI** | 1147 | \$10.52 | \$11.39 | +8.3% (\$+1,004) |
+| 📈 **RIOT** | 476 | \$26.48 | \$27.72 | +4.7% (\$+590) |
+| 📈 **FCEL** | 277 | \$28.71 | \$29.09 | +1.3% (\$+106) |
 
-✅ **Total open P&L: \$+1,623** across \$26,294 invested
+✅ **Total open P&L: \$+1,700** across \$34,323 invested
 
 **🌍 Market-wide news:** _(macro / geopolitics — not tied to one ticker)_
 - Fed's Cook: Supreme Court's Decision To Leave The Lower Court's Order In Place And Affirm The Need For Real Process And Real Cause Recognizes That Federal Reserve Independence Is Essential To Congressional Mandates; Ruling Affirms A Principle That Has Underpinned Sound Economic Stewardship For Generations: That The Federal Reserve Must Make All Its Policy Decisions Guided By Evidence And Independent Judgment, Free From Political Interference
@@ -56,8 +57,8 @@ _Subtotal of these 10: **\$-4,548** — the older 31 trades (incl. the biggest w
 
 **Record:** 41 trades, **32%** win rate, avg +1.2%, realized P&L **\$+11,349**
 - 💰 **Realized** (closed trades): \$+11,349
-- 📊 **Unrealized** (open positions right now): \$+1,623
-- **= Total account gain: \$+12,973**
+- 📊 **Unrealized** (open positions right now): \$+1,700
+- **= Total account gain: \$+13,049**
 
 **By strategy:**
 | Strategy | Trades | Win % | Avg P&L | Total P&L |
@@ -88,7 +89,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 | **NFLX** | Jul 16 (16d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **CLF** | Jul 20 (20d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **TSLA** | Jul 22 (22d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **NOW** | Jul 22 (22d) | analyst +1, price +10% | ⚪ Coin flip | stock trending up 10% |
+| **NOW** | Jul 22 (22d) | analyst +1, price +10% | ⚪ Coin flip | stock trending up 9% |
 | **FCX** | Jul 22 (22d) | price -12% | ⚪ Coin flip | stock down 12% — bar lowered, could surprise |
 | **INTC** | Jul 23 (23d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **GOOGL** | Jul 23 (23d) | neutral | ⚪ Coin flip | no strong signals either way |
@@ -100,8 +101,8 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 | **V** | Jul 28 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **UNH** | Jul 28 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **SBUX** | Jul 28 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **MARA** | Jul 28 (28d) | price -8% | ⚪ Coin flip | stock weak into report (-7%) |
-| **SOFI** | Jul 28 (28d) | price +5% | ⚪ Coin flip | no strong signals either way |
+| **MARA** | Jul 28 (28d) | price -7% | ⚪ Coin flip | stock weak into report (-7%) |
+| **SOFI** | Jul 28 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **MSFT** | Jul 29 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **QCOM** | Jul 29 (29d) | analyst +2, price -15% | 🟡 Slight edge to beat | analyst PT raise / upgrade; stock down 15% — bar lowered, could surprise |
 | **META** | Jul 29 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
@@ -119,6 +120,78 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
     - Producer prices feed into CPI with a 1–2 month lag. Hot PPI = forward inflation warning. Usually less market-moving than CPI unless it surprises by > 0.3%.
 
 </details>
+
+## Jun 29, 11:06 AM ET — Scan | Pi: 49.7°C
+
+**Market check:**
+- Today the S&P 500 is **up by 1.10%** 📈
+- Trend is **choppy / sideways**
+- Mood: a bit nervous (VIX 18)
+- Investors confident (broad-based)
+- ⚠ **Account is 8%+ below peak (drawdown tracked) — trading continues normally**
+- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- Currently holding: ABSI, ARQQ, FCEL, RIOT
+- Scoreboard: Us **+12.88%** vs S&P 500 +0.80% (**beating** by 12.08%)
+
+**Money flowing into:** Healthcare (+8%), Utilities (+6%), Industrials (+6%)
+**Money flowing out of:** Gold (-10%), Crude Oil (-21%), Silver (-23%)
+
+**Hot stocks discovered today:** DCOY, QDEL
+**Full discovery list (15):** DCOY, QDEL, FCEL, MEI, WYY, ABSI, RUN, BLZE, ARQQ, NXTS, DFTX, APGE, CAST, SWBI, QURE
+
+**Looked at 80 stocks** → **3 ready to trade**.
+
+**Result:** ✓ Bought 1 stock(s), skipped 2.
+
+- ✓ **Bought ARQQ at \$25.62** — strong setup (5.25/8 checks passed)
+    - **Why:** outperforming the market, big buyers loading up, more buyers than sellers, hot sector, market conditions favorable
+
+<details><summary>2 setups found but not bought (click to see why)</summary>
+
+- **QURE** — spread 0.44% > 0.15%
+- **QDEL** — spread 0.43% > 0.15%
+
+</details>
+
+<details><summary>Notable news today</summary>
+
+- ✓ **AMD** — positive news (+3)
+    - _Cantor Fitzgerald Maintains Overweight on Advanced Micro Devices, Raises Price Target to \$700_
+- ✓ **MRVL** — positive news (+3)
+    - _Cantor Fitzgerald Maintains Neutral on Marvell Technology, Raises Price Target to \$300_
+- ✓ **MU** — positive news (+2)
+    - _Cantor Fitzgerald Maintains Overweight on Micron Technology, Raises Price Target to \$2000_
+- ✗ **NVDA** — negative news (-3)
+
+</details>
+
+<details><summary>🔮 What-If Tracker (sentiment picks we're watching)</summary>
+
+**Tracking:**
+| Stock | Entry | Now | Peak | Day |
+|---|---|---|---|---|
+| 📈 TATT | \$44.55 | +2.9% | +2.9% | 3/5 |
+| 📈 AGYS | \$88.31 | +1.7% | +1.9% | 2/5 |
+| 📈 UMAC | \$23.85 | +9.8% | +9.8% | 2/5 |
+| 📉 MU | \$1144.73 | -6.5% | +0.0% | 4/5 |
+| 📈 CSCO | \$115.47 | +1.1% | +1.1% | 4/5 |
+| 📉 WYY | \$17.19 | -12.6% | +0.0% | 4/5 |
+| 📈 DFTX | \$43.34 | +4.0% | +4.0% | 4/5 |
+| 📉 SNDK | \$2144.45 | -9.8% | +0.0% | 3/5 |
+| 📉 MEI | \$18.59 | -0.2% | +7.6% | 3/5 |
+| 📈 QURE | \$47.45 | +1.8% | +2.8% | 3/5 |
+| 📉 NOW | \$101.93 | -0.1% | +0.1% | 2/5 |
+| 📈 QCOM | \$188.52 | +0.0% | +0.0% | 1/5 |
+| 📉 AMZN | \$245.21 | -0.1% | +0.0% | 1/5 |
+| 📉 DCOY | \$11.18 | -8.0% | +0.0% | 1/5 |
+| 📈 QDEL | \$18.43 | +1.1% | +1.1% | 1/5 |
+| 📉 FCEL | \$28.70 | -0.3% | +0.0% | 1/5 |
+
+**Track record:** 161 picks, **45%** hit rate, avg return **+0.8%**, avg peak **+6.8%**
+
+</details>
+
+---
 
 ## Jun 29, 11:01 AM ET — Scan | Pi: 47.7°C
 
@@ -2706,79 +2779,5 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
     - _HSBC Partners With Google Cloud To Build, Deploy AI Across HSBC's Global Operations_
 - ✗ **AMZN** — neutral news (-1)
     - _Jim Cramer On SpaceX's Wild Rally: 'This Stock Might As Well Be Called Elon Musk'_
-
----
-
-## Jun 16, 03:52 PM ET — Scan | Pi: 49.7°C
-
-> 🩺 **System health:**
-> - ⚠ Volume patching 0/81 — running on thin IEX volume (surge detection + liquidity gate degraded)
-
-**Market check:**
-- Today the S&P 500 is **down by 0.52%** 📉
-- Trend is **choppy / sideways**
-- Mood: calm (VIX 16)
-- Investors confident (broad-based)
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
-- Currently holding: ANET, COIN, FCX, MRVL, QBTS
-- Scoreboard: Us **+16.90%** vs S&P 500 +2.64% (**beating** by 14.26%)
-
-**Money flowing into:** Materials (+7%), Industrials (+7%), Financials (+6%)
-**Money flowing out of:** Silver (-5%), Energy (-10%), Crude Oil (-24%)
-
-**Looked at 69 stocks** → **5 ready to trade**.
-
-**Result:** Found 5 setup(s), but didn't buy any.
-
-
-<details><summary>5 setups found but not bought (click to see why)</summary>
-
-- **ARM** — 5/2 full, all 2 positions in profit, none weak enough to replace
-- **MU** — 5/2 full, all 2 positions in profit, none weak enough to replace
-- **AMD** — 5/2 full, all 2 positions in profit, none weak enough to replace
-- **SOFI** — 5/2 full, all 2 positions in profit, none weak enough to replace
-- **NBIS** — 5/2 full, all 2 positions in profit, none weak enough to replace
-
-</details>
-
-<details><summary>Notable news today</summary>
-
-- ✓ **MU** — strong positive news (+5)
-- ✓ **AMD** — positive news (+3)
-    - _AMD And Rackspace Enter Agreement For Phased Deployment Of Initial 30MW Footprint For AMD-Based Compute Deployments Across RXT's Global Data Centers From Late 2026 Through 2028_
-- ✓ **DELL** — positive news (+3)
-- ✗ **GOOGL** — negative news (-2)
-
-</details>
-
-<details><summary>🔮 What-If Tracker (sentiment picks we're watching)</summary>
-
-**New picks flagged:**
-- **AMD** at \$512.50 — strong sentiment (+3)
-- **PLTR** at \$132.95 — strong sentiment (+4), analyst upgrade (+2)
-
-**Tracking:**
-| Stock | Entry | Now | Peak | Day |
-|---|---|---|---|---|
-| 📈 TATT | \$44.55 | +2.9% | +2.9% | 3/5 |
-| 📈 AGYS | \$88.31 | +1.7% | +1.9% | 2/5 |
-| 📈 UMAC | \$23.85 | +9.8% | +9.8% | 2/5 |
-| 📈 ARM | \$381.75 | +6.2% | +11.0% | 4/5 |
-| 📈 MU | \$985.61 | +4.7% | +10.3% | 4/5 |
-| 📉 NOK | \$14.88 | -5.5% | +0.0% | 4/5 |
-| 📉 FRD | \$34.38 | -1.5% | +1.3% | 4/5 |
-| 📈 GDX | \$86.14 | +1.4% | +1.4% | 3/5 |
-| 📉 RKLB | \$107.27 | -1.1% | +2.2% | 3/5 |
-| 📉 COIN | \$171.79 | -0.7% | +0.0% | 3/5 |
-| 📈 HQ | \$17.83 | +6.4% | +6.4% | 2/5 |
-| 📉 DELL | \$412.76 | -1.2% | +0.0% | 1/5 |
-| 📉 RGTI | \$22.07 | -5.8% | +0.0% | 1/5 |
-| 📉 MSTR | \$130.60 | -5.2% | +0.0% | 1/5 |
-| 📉 AMD | \$512.50 | +0.0% | +0.0% | 0/5 |
-| 📉 PLTR | \$132.95 | +0.0% | +0.0% | 0/5 |
-
-**Track record:** 106 picks, **47%** hit rate, avg return **+2.2%**, avg peak **+8.1%**
-
-</details>
 
 ---
