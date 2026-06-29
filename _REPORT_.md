@@ -1,30 +1,31 @@
 # AI Trader — Daily Log
 
 What the robot saw and did each time it woke up. Newest at top.
-_Last updated: Jun 29, 2026 at 11:06 AM ET_
+_Last updated: Jun 29, 2026 at 01:01 PM ET_
 
 📱 [Ask Claude about this on your phone](../PHONE_README.md)
 
-**Market today:** 📈 S&P 500 **+1.10%** (up), Nasdaq **+1.41%** — broad-based rally
-_Leaders: CRWD +7.3%, AMZN +6.2%, TSLA +4.7%_
+**Market today:** 📈 S&P 500 **+1.28%** (up), Nasdaq **+2.14%** — tech-led rally
+_Leaders: CRWD +6.7%, TSLA +6.5%, GOOGL +4.7%_
 
 ### Performance since 2026-05-07
 _Cumulative since baseline — not today's move (see above)._
 | | Return | Value |
 |---|---|---|
-| 📈 **Our Portfolio** | **+12.88%** | \$112,880.45 |
-| 📈 S&P 500 (SPY) | +0.80% | \$737.38 |
-| ✅ **Alpha** | **+12.08%** | Beating the market |
+| 📈 **Our Portfolio** | **+13.92%** | \$113,923.99 |
+| 📈 S&P 500 (SPY) | +0.98% | \$738.68 |
+| ✅ **Alpha** | **+12.95%** | Beating the market |
 
 ### Current Portfolio
 
 | Stock | Shares | Bought at | Current | P&L |
 |---|---|---|---|---|
-| 📈 **ABSI** | 1147 | \$10.52 | \$11.39 | +8.3% (\$+1,004) |
-| 📈 **RIOT** | 476 | \$26.48 | \$27.72 | +4.7% (\$+590) |
-| 📈 **FCEL** | 277 | \$28.71 | \$29.09 | +1.3% (\$+106) |
+| 📈 **ARQQ** | 429 | \$25.69 | \$27.80 | +8.2% (\$+904) |
+| 📈 **ABSI** | 1147 | \$10.52 | \$11.18 | +6.2% (\$+751) |
+| 📈 **RIOT** | 476 | \$26.48 | \$27.89 | +5.3% (\$+671) |
+| 📈 **FCEL** | 277 | \$28.71 | \$29.47 | +2.6% (\$+211) |
 
-✅ **Total open P&L: \$+1,700** across \$34,323 invested
+✅ **Total open P&L: \$+2,537** across \$46,181 invested
 
 **🌍 Market-wide news:** _(macro / geopolitics — not tied to one ticker)_
 - Fed's Cook: Supreme Court's Decision To Leave The Lower Court's Order In Place And Affirm The Need For Real Process And Real Cause Recognizes That Federal Reserve Independence Is Essential To Congressional Mandates; Ruling Affirms A Principle That Has Underpinned Sound Economic Stewardship For Generations: That The Federal Reserve Must Make All Its Policy Decisions Guided By Evidence And Independent Judgment, Free From Political Interference
@@ -57,8 +58,8 @@ _Subtotal of these 10: **\$-4,548** — the older 31 trades (incl. the biggest w
 
 **Record:** 41 trades, **32%** win rate, avg +1.2%, realized P&L **\$+11,349**
 - 💰 **Realized** (closed trades): \$+11,349
-- 📊 **Unrealized** (open positions right now): \$+1,700
-- **= Total account gain: \$+13,049**
+- 📊 **Unrealized** (open positions right now): \$+2,537
+- **= Total account gain: \$+13,887**
 
 **By strategy:**
 | Strategy | Trades | Win % | Avg P&L | Total P&L |
@@ -89,26 +90,26 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 | **NFLX** | Jul 16 (16d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **CLF** | Jul 20 (20d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **TSLA** | Jul 22 (22d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **NOW** | Jul 22 (22d) | analyst +1, price +10% | ⚪ Coin flip | stock trending up 9% |
-| **FCX** | Jul 22 (22d) | price -12% | ⚪ Coin flip | stock down 12% — bar lowered, could surprise |
+| **NOW** | Jul 22 (22d) | analyst +1, price +7% | ⚪ Coin flip | stock trending up 7% |
+| **FCX** | Jul 22 (22d) | price -11% | ⚪ Coin flip | stock down 11% — bar lowered, could surprise |
 | **INTC** | Jul 23 (23d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **GOOGL** | Jul 23 (23d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **NEM** | Jul 23 (23d) | price -8% | ⚪ Coin flip | stock weak into report (-8%) |
-| **NOK** | Jul 23 (23d) | price -13% | ⚪ Coin flip | stock down 13% — bar lowered, could surprise |
+| **NEM** | Jul 23 (23d) | price -7% | ⚪ Coin flip | stock weak into report (-7%) |
+| **NOK** | Jul 23 (23d) | price -11% | ⚪ Coin flip | stock down 11% — bar lowered, could surprise |
 | **AXP** | Jul 24 (24d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **SLB** | Jul 24 (24d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **CLS** | Jul 27 (27d) | price -12% | ⚪ Coin flip | stock down 12% — bar lowered, could surprise |
+| **CLS** | Jul 27 (27d) | price -10% | ⚪ Coin flip | stock weak into report (-10%) |
 | **V** | Jul 28 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **UNH** | Jul 28 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **SBUX** | Jul 28 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **MARA** | Jul 28 (28d) | price -7% | ⚪ Coin flip | stock weak into report (-7%) |
-| **SOFI** | Jul 28 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **MARA** | Jul 28 (28d) | price -5% | ⚪ Coin flip | stock weak into report (-5%) |
+| **SOFI** | Jul 28 (28d) | price +5% | ⚪ Coin flip | stock trending up 5% |
 | **MSFT** | Jul 29 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **QCOM** | Jul 29 (29d) | analyst +2, price -15% | 🟡 Slight edge to beat | analyst PT raise / upgrade; stock down 15% — bar lowered, could surprise |
+| **QCOM** | Jul 29 (29d) | analyst +2, price -14% | 🟡 Slight edge to beat | analyst PT raise / upgrade; stock down 14% — bar lowered, could surprise |
 | **META** | Jul 29 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **ARM** | Jul 29 (29d) | price -20% | ⚪ Coin flip | stock down 20% — bar lowered, could surprise |
-| **VRT** | Jul 29 (29d) | price -16% | ⚪ Coin flip | stock down 16% — bar lowered, could surprise |
-| **APLD** | Jul 29 (29d) | price -19% | ⚪ Coin flip | stock down 19% — bar lowered, could surprise |
+| **ARM** | Jul 29 (29d) | price -16% | ⚪ Coin flip | stock down 16% — bar lowered, could surprise |
+| **VRT** | Jul 29 (29d) | price -15% | ⚪ Coin flip | stock down 15% — bar lowered, could surprise |
+| **APLD** | Jul 29 (29d) | price -16% | ⚪ Coin flip | stock down 16% — bar lowered, could surprise |
 
 **Macro events coming up:**
 
@@ -120,6 +121,75 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
     - Producer prices feed into CPI with a 1–2 month lag. Hot PPI = forward inflation warning. Usually less market-moving than CPI unless it surprises by > 0.3%.
 
 </details>
+
+## Jun 29, 01:01 PM ET — Scan | Pi: 49.2°C
+
+**Market check:**
+- Today the S&P 500 is **up by 1.28%** 📈
+- Trend is **choppy / sideways**
+- Mood: calm (VIX 18)
+- Investors confident (broad-based)
+- ⚠ **Account is 8%+ below peak (drawdown tracked) — trading continues normally**
+- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- Currently holding: ABSI, ARQQ, FCEL, RIOT
+- Scoreboard: Us **+13.92%** vs S&P 500 +0.98% (**beating** by 12.95%)
+
+**Money flowing into:** Healthcare (+8%), Utilities (+7%), Industrials (+6%)
+**Money flowing out of:** Gold (-10%), Crude Oil (-21%), Silver (-22%)
+
+**Hot stocks discovered today:** UPC, DCOY, QDEL
+**Full discovery list (15):** DCOY, QDEL, UPC, FCEL, MEI, WYY, ABSI, RUN, BLZE, ARQQ, NXTS, DFTX, APGE, CAST, SWBI
+
+**Looked at 80 stocks** → **1 ready to trade**.
+
+**Result:** Found 1 setup(s), but didn't buy any.
+
+
+<details><summary>1 setups found but not bought (click to see why)</summary>
+
+- **QDEL** — spread 0.27% > 0.15%
+
+</details>
+
+<details><summary>Notable news today</summary>
+
+- ✓ **MRVL** — strong positive news (+5)
+    - _UBS Maintains Buy on Marvell Technology, Raises Price Target to \$340_
+- ✓ **AMD** — positive news (+3)
+    - _Cantor Fitzgerald Maintains Overweight on Advanced Micro Devices, Raises Price Target to \$700_
+- ✓ **KLAC** — positive news (+2)
+    - _Cantor Fitzgerald Maintains Overweight on KLA, Raises Price Target to \$325_
+- ✗ **NVDA** — negative news (-3)
+
+</details>
+
+<details><summary>🔮 What-If Tracker (sentiment picks we're watching)</summary>
+
+**New picks flagged:**
+- **MRVL** at \$271.88 — strong sentiment (+5), analyst upgrade (+4)
+
+**Tracking:**
+| Stock | Entry | Now | Peak | Day |
+|---|---|---|---|---|
+| 📈 TATT | \$44.55 | +2.9% | +2.9% | 3/5 |
+| 📈 AGYS | \$88.31 | +1.7% | +1.9% | 2/5 |
+| 📈 UMAC | \$23.85 | +9.8% | +9.8% | 2/5 |
+| 📉 SNDK | \$2144.45 | -5.9% | +0.0% | 4/5 |
+| 📈 MEI | \$18.59 | +3.1% | +7.6% | 4/5 |
+| 📈 QURE | \$47.45 | +1.8% | +2.8% | 3/5 |
+| 📉 NOW | \$101.93 | -2.0% | +0.1% | 3/5 |
+| 📈 QCOM | \$188.52 | +0.9% | +0.9% | 2/5 |
+| 📉 AMZN | \$245.21 | -1.6% | +0.0% | 2/5 |
+| 📉 DCOY | \$11.18 | -4.4% | +0.0% | 2/5 |
+| 📉 QDEL | \$18.43 | +0.0% | +1.1% | 2/5 |
+| 📈 FCEL | \$28.70 | +2.3% | +2.3% | 2/5 |
+| 📉 MRVL | \$271.88 | +0.0% | +0.0% | 0/5 |
+
+**Track record:** 165 picks, **45%** hit rate, avg return **+0.8%**, avg peak **+6.6%**
+
+</details>
+
+---
 
 ## Jun 29, 11:06 AM ET — Scan | Pi: 49.7°C
 
@@ -2746,38 +2816,5 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 **Track record:** 110 picks, **48%** hit rate, avg return **+2.2%**, avg peak **+8.0%**
 
 </details>
-
----
-
-## Jun 17, 08:31 AM ET — Pre-market check | Pi: 48.2°C
-
-**Market check:**
-- Trend is **choppy / sideways**
-- Currently holding: ANET, COIN, FCX, MRVL, QBTS
-- Scoreboard: Us **+16.80%** vs S&P 500 +2.60% (**beating** by 14.20%)
-
-**S&P 500 pre-market:** +0.03% ➡️
-
-**📌 Your positions:**
-- ✅ **ANET** — steady, no overnight news
-- ✅ **COIN** — steady, no overnight news
-- ✅ **FCX** — steady, no overnight news
-- ✅ **MRVL** — steady, no overnight news
-- ✅ **QBTS** — steady, no overnight news
-
-**👀 Watchlist (not held):**
-- 🚀 **MU** — gapping +3.1% on positive news (+2) — watch at 9:30 open
-- ✓ **NVDA** — positive news (+3)
-    - _What's Going On With AMD Stock Wednesday?_
-- ✓ **AVGO** — neutral news (+1), gapping +2.4%
-    - _Investigating Broadcom's Standing In Semiconductors &amp; Semiconductor Equipment Industry Compared To Competitors_
-- ✓ **CEG** — neutral news (+1)
-    - _This GE Vernova Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Wednesday_
-- ✗ **META** — neutral news (-1)
-    - _Why Did Meta Change Its Mind? Zuckerberg Is Now Backing The Kids Online Safety Act After Years Of Opposition_
-- ✓ **GOOGL** — positive news (+2)
-    - _HSBC Partners With Google Cloud To Build, Deploy AI Across HSBC's Global Operations_
-- ✗ **AMZN** — neutral news (-1)
-    - _Jim Cramer On SpaceX's Wild Rally: 'This Stock Might As Well Be Called Elon Musk'_
 
 ---
