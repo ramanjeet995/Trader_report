@@ -1,32 +1,32 @@
 # AI Trader — Daily Log
 
 What the robot saw and did each time it woke up. Newest at top.
-_Last updated: Jun 30, 2026 at 03:02 PM ET_
+_Last updated: Jun 30, 2026 at 03:52 PM ET_
 
 📱 [Ask Claude about this on your phone](../PHONE_README.md)
 
-**Market today:** 📈 S&P 500 **+0.85%** (up), Nasdaq **+1.73%** — tech-led rally
-_Leaders: AMD +7.9%, CRWD +2.8%, TSLA +2.5%_
+**Market today:** 📈 S&P 500 **+0.82%** (up), Nasdaq **+1.78%** — tech-led rally
+_Leaders: AMD +8.2%, CRWD +2.7%, TSLA +2.5%_
 
 ### Performance since 2026-05-07
 _Cumulative since baseline — not today's move (see above)._
 | | Return | Value |
 |---|---|---|
-| 📈 **Our Portfolio** | **+15.54%** | \$115,541.27 |
-| 📈 S&P 500 (SPY) | +2.13% | \$747.13 |
-| ✅ **Alpha** | **+13.41%** | Beating the market |
+| 📈 **Our Portfolio** | **+16.40%** | \$116,396.10 |
+| 📈 S&P 500 (SPY) | +2.10% | \$746.92 |
+| ✅ **Alpha** | **+14.29%** | Beating the market |
 
 ### Current Portfolio
 
 | Stock | Shares | Bought at | Current | P&L |
 |---|---|---|---|---|
-| 📈 **FCEL** | 277 | \$28.71 | \$36.40 | **+26.8%** (\$+2,130) |
-| 📈 **ARQQ** | 429 | \$25.69 | \$28.46 | **+10.8%** (\$+1,188) |
-| 📈 **ABSI** | 1147 | \$10.52 | \$11.38 | +8.2% (\$+990) |
-| 📈 **CRWD** | 28 | \$755.76 | \$762.61 | +0.9% (\$+192) |
-| 📉 **QDEL** | 518 | \$18.51 | \$17.15 | -7.3% (\$-705) |
+| 📈 **FCEL** | 277 | \$28.71 | \$36.09 | **+25.7%** (\$+2,046) |
+| 📈 **ARQQ** | 429 | \$25.69 | \$30.09 | **+17.1%** (\$+1,888) |
+| 📈 **ABSI** | 1147 | \$10.52 | \$11.54 | +9.7% (\$+1,170) |
+| 📈 **CRWD** | 28 | \$755.76 | \$762.79 | +0.9% (\$+197) |
+| 📉 **QDEL** | 518 | \$18.51 | \$17.36 | -6.2% (\$-599) |
 
-✅ **Total open P&L: \$+3,795** across \$65,584 invested
+✅ **Total open P&L: \$+4,702** across \$66,491 invested
 
 **🌍 Market-wide news:** _(macro / geopolitics — not tied to one ticker)_
 - Gold Bulls May Need Fed Rate Cuts More Than Geopolitical Tensions
@@ -58,8 +58,8 @@ _Subtotal of these 10: **\$-4,250** — the older 32 trades (incl. the biggest w
 
 **Record:** 42 trades, **33%** win rate, avg +1.2%, realized P&L **\$+11,554**
 - 💰 **Realized** (closed trades): \$+11,554
-- 📊 **Unrealized** (open positions right now): \$+3,795
-- **= Total account gain: \$+15,349**
+- 📊 **Unrealized** (open positions right now): \$+4,702
+- **= Total account gain: \$+16,256**
 
 **By strategy:**
 | Strategy | Trades | Win % | Avg P&L | Total P&L |
@@ -102,22 +102,22 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 | **V** | Jul 28 (27d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **UNH** | Jul 28 (27d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **SBUX** | Jul 28 (27d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **MARA** | Jul 28 (27d) | price -7% | ⚪ Coin flip | stock weak into report (-7%) |
+| **MARA** | Jul 28 (27d) | price -6% | ⚪ Coin flip | stock weak into report (-6%) |
 | **SOFI** | Jul 28 (27d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **MSFT** | Jul 29 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **QCOM** | Jul 29 (28d) | analyst +2, price -9% | ⚪ Coin flip | analyst PT raise / upgrade; stock weak into report (-9%) |
+| **QCOM** | Jul 29 (28d) | analyst +2, price -10% | ⚪ Coin flip | analyst PT raise / upgrade; stock weak into report (-9%) |
 | **META** | Jul 29 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **ARM** | Jul 29 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **VRT** | Jul 29 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **APLD** | Jul 29 (28d) | price -17% | ⚪ Coin flip | stock down 17% — bar lowered, could surprise |
+| **APLD** | Jul 29 (28d) | price -16% | ⚪ Coin flip | stock down 16% — bar lowered, could surprise |
 | **AAPL** | Jul 30 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **AMZN** | Jul 30 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **MA** | Jul 30 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **ABBV** | Jul 30 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
 | **COIN** | Jul 30 (29d) | price -8% | ⚪ Coin flip | stock weak into report (-8%) |
-| **RIOT** | Jul 30 (29d) | price -5% | ⚪ Coin flip | stock weak into report (-5%) |
-| **MSTR** | Jul 30 (29d) | analyst -4, price -18% | ⚪ Coin flip | analyst downgrade; stock down 18% — bar lowered, could surprise |
-| **KLAC** | Jul 30 (29d) | analyst +1, price +24% | ⚪ Coin flip | stock up 24% recently — bar is high |
+| **RIOT** | Jul 30 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **MSTR** | Jul 30 (29d) | analyst -4, price -16% | ⚪ Coin flip | analyst downgrade; stock down 16% — bar lowered, could surprise |
+| **KLAC** | Jul 30 (29d) | analyst +1, price +25% | ⚪ Coin flip | stock up 25% recently — bar is high |
 
 **Macro events coming up:**
 
@@ -131,6 +131,76 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
     - Market calm — Fed likely holds or hints at cuts. Growth stocks and tech tend to rally on 'no surprise' outcomes.
 
 </details>
+
+## Jun 30, 03:52 PM ET — Scan | Pi: 50.6°C
+
+**Market check:**
+- Today the S&P 500 is **up by 0.82%** 📈
+- Trend is **choppy / sideways**
+- Mood: calm (VIX 16)
+- Investors confident (broad-based)
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- Currently holding: ABSI, ARQQ, CRWD, FCEL, QDEL
+- Scoreboard: Us **+16.40%** vs S&P 500 +2.10% (**beating** by 14.29%)
+
+**Money flowing into:** Healthcare (+9%), Industrials (+6%), Financials (+4%)
+**Money flowing out of:** Gold (-10%), Silver (-21%), Crude Oil (-23%)
+
+**Hot stocks discovered today:** ABVX
+**Full discovery list (15):** ABVX, DCOY, UPC, QDEL, FCEL, MEI, WYY, ABSI, RUN, BLZE, ARQQ, NXTS, DFTX, APGE, CAST
+
+**Looked at 80 stocks** → **2 ready to trade**.
+
+**Result:** Found 2 setup(s), but didn't buy any.
+
+
+<details><summary>2 setups found but not bought (click to see why)</summary>
+
+- **PANW** — 5/5 full, all 5 positions in profit, none weak enough to replace
+- **AMD** — 5/5 full, all 5 positions in profit, none weak enough to replace
+
+</details>
+
+<details><summary>Notable news today</summary>
+
+- ✓ **AMD** — strong positive news (+5)
+    - _Wells Fargo Maintains Overweight on Advanced Micro Devices, Raises Price Target to \$615_
+- ✓ **MRVL** — strong positive news (+5)
+- ✓ **NVDA** — positive news (+3)
+    - _Prediction Market ETFs Prompt SEC Review Of Fund Rules As Innovation Accelerates_
+- ✗ **SMCI** — negative news (-2)
+
+</details>
+
+<details><summary>🔮 What-If Tracker (sentiment picks we're watching)</summary>
+
+**Tracking:**
+| Stock | Entry | Now | Peak | Day |
+|---|---|---|---|---|
+| 📈 TATT | \$44.55 | +2.9% | +2.9% | 3/5 |
+| 📈 AGYS | \$88.31 | +1.7% | +1.9% | 2/5 |
+| 📈 UMAC | \$23.85 | +9.8% | +9.8% | 2/5 |
+| 📈 QURE | \$47.45 | +1.8% | +2.8% | 3/5 |
+| 📈 AMD | \$559.06 | +4.4% | +4.4% | 4/5 |
+| 📈 MU | \$1154.65 | +0.9% | +0.9% | 4/5 |
+| 📈 SNDK | \$2169.04 | +4.4% | +4.4% | 4/5 |
+| 📈 KLAC | \$295.07 | +3.4% | +3.4% | 4/5 |
+| 📈 GOOGL | \$353.34 | +1.2% | +1.2% | 4/5 |
+| 📈 TSLA | \$414.84 | +1.7% | +1.7% | 4/5 |
+| 📈 RKLB | \$99.64 | +2.7% | +3.2% | 4/5 |
+| 📈 ABVX | \$131.50 | +2.1% | +3.0% | 4/5 |
+| 📈 WYY | \$17.54 | +0.1% | +3.2% | 4/5 |
+| 📉 RUN | \$14.17 | -5.2% | +0.0% | 4/5 |
+| 📉 QCOM | \$185.99 | -0.7% | +0.0% | 3/5 |
+| 📈 DCOY | \$7.25 | +1.7% | +1.7% | 3/5 |
+| 📈 MRVL | \$295.99 | +0.4% | +0.4% | 1/5 |
+| 📉 FCX | \$62.80 | -0.2% | +0.0% | 1/5 |
+
+**Track record:** 174 picks, **45%** hit rate, avg return **+0.6%**, avg peak **+6.6%**
+
+</details>
+
+---
 
 ## Jun 30, 03:02 PM ET — Scan | Pi: 51.1°C
 
@@ -2959,67 +3029,30 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 ---
 
-## Jun 18, 08:30 AM ET — Pre-market check | Pi: 45.8°C
-
-**Market check:**
-- Trend is **choppy / sideways**
-- Currently holding: ANET, FCX, MRVL, MU, NVDA
-- Scoreboard: Us **+17.77%** vs S&P 500 +1.30% (**beating** by 16.47%)
-
-**S&P 500 pre-market:** +0.62% 📈
-
-**📌 Your positions:**
-- ✅ **ANET** — steady, no overnight news
-- ✅ **FCX** — steady, no overnight news
-- 📈 **MRVL** — neutral news (+1), gapping +6.0%
-    - _Tower Semiconductor Announces Shipments Of 5M+ Coherent Photonic Integrated Circuits To Marvell Global Customers_
-- ✅ **MU** — steady, no overnight news
-- ✅ **NVDA** — steady, no overnight news
-
-**👀 Watchlist (not held):**
-- ✓ **AVGO** — neutral news (+1), gapping +3.0%
-    - _Reported Earlier, Broadcom Upsizes Cash Tender Offers to \$3B, Accepts \$2.9B of \$5.5B in Tendered Outstanding Debt Securities_
-- ✗ **CEG** — neutral news (-1), gapping +1.1%
-    - _This Intuit Analyst Is No Longer Bullish; Here Are Top 4 Downgrades For Thursday_
-- ✗ **META** — negative news (-2)
-    - _The Meta-Scale Multiplier: Why The Data Center Race Is A Power Grid Story_
-- ✓ **TSLA** — positive news (+2)
-    - _Why Is Intel Stock Soaring Thursday?_
-- ✗ **AAPL** — neutral news (-1)
-    - _What Is Going On With Micron Stock On Thursday?_
-- ✓ **COIN** — neutral news (+1), gapping +1.4%
-    - _Cathie Wood's Ark Invest Sells Robinhood Stock Into 8% Rally, Loads Up On Coinbase And Block_
-
----
-
 
 ## 📈 Market Movers — did we miss a sign?
 
-- • **GIBO** +1986.4% (\$26.08)
+- • **GIBO** +1831.2% (\$24.14)
     - Sign: NO clean technical setup beforehand  |  pre-move RSI 38, below 20-MA, 5d -7%
     - Why not us: not on the watchlist
     - Catalyst (news +0): _[~] Trading Halt: Halt status updated at 8:55:00 AM ET: Quotation Resumption: News and Resumption Times_
-- • **SMCC** +351.2% (\$28.01)
+- • **SMCC** +339.8% (\$27.3)
     - Sign: NO clean technical setup beforehand  |  pre-move RSI 41, below 20-MA, 5d +0%
     - Why not us: not on the watchlist
     - Catalyst (news +0): _No recent news_
-- • **CUPR** +62.5% (\$7.25)
+- • **CUPR** +50.2% (\$6.7)
     - Sign: NO clean technical setup beforehand  |  pre-move RSI 55, below 20-MA, 5d +13%
     - Why not us: not on the watchlist
     - Catalyst (news +0): _[~] 12 Health Care Stocks Moving In Tuesday's Intraday Session_
-- • **ABVX** +40.7% (\$135.25)
+- • **ABVX** +38.8% (\$133.45)
     - Sign: NO clean technical setup beforehand  |  pre-move RSI 44, below 20-MA, 5d -6%
     - Why not us: not on the watchlist
     - Catalyst (news +5): _[~] 12 Health Care Stocks Moving In Tuesday's Intraday Session_
-- • **CRCD** +34.2% (\$6.91)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 53, below 20-MA, 5d +6%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _No recent news_
-- • **AVXX** +34.0% (\$6.78)
+- • **AVXX** +36.8% (\$6.92)
     - Sign: NO — was oversold/falling (reversal bounce, not a momentum signal)  |  pre-move RSI 34, below 20-MA, 5d -15%
     - Why not us: not on the watchlist
     - Catalyst (news +0): _No recent news_
-- • **PAVS** +28.3% (\$7.89)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 90, below 20-MA, 5d +3564%
+- • **CRCD** +35.2% (\$6.96)
+    - Sign: NO clean technical setup beforehand  |  pre-move RSI 53, below 20-MA, 5d +6%
     - Why not us: not on the watchlist
-    - Catalyst (news +0): _[~] Why AeroVironment Shares Are Trading Higher By Over 21%; Here Are 20 Stocks Moving Premarket_
+    - Catalyst (news +0): _No recent news_
