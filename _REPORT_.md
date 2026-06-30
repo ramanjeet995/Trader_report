@@ -1,39 +1,41 @@
 # AI Trader — Daily Log
 
 What the robot saw and did each time it woke up. Newest at top.
-_Last updated: Jun 29, 2026 at 03:51 PM ET_
+_Last updated: Jun 30, 2026 at 10:26 AM ET_
 
 📱 [Ask Claude about this on your phone](../PHONE_README.md)
 
-**Market today:** 📈 S&P 500 **+1.57%** (up), Nasdaq **+2.52%** — tech-led rally
-_Leaders: TSLA +8.9%, CRWD +6.3%, GOOGL +5.3%_
+**Market today:** 📈 S&P 500 **+0.48%** (up), Nasdaq **+1.27%** — tech-led rally
+_Leaders: AMD +3.6%, CRWD +1.7%, NVDA +1.6%_
 
 ### Performance since 2026-05-07
 _Cumulative since baseline — not today's move (see above)._
 | | Return | Value |
 |---|---|---|
-| 📈 **Our Portfolio** | **+14.18%** | \$114,184.49 |
-| 📈 S&P 500 (SPY) | +1.27% | \$740.83 |
-| ✅ **Alpha** | **+12.91%** | Beating the market |
+| 📈 **Our Portfolio** | **+15.94%** | \$115,936.78 |
+| 📈 S&P 500 (SPY) | +1.76% | \$744.43 |
+| ✅ **Alpha** | **+14.17%** | Beating the market |
 
 ### Current Portfolio
 
 | Stock | Shares | Bought at | Current | P&L |
 |---|---|---|---|---|
-| 📈 **ABSI** | 1147 | \$10.52 | \$11.29 | +7.3% (\$+877) |
-| 📈 **ARQQ** | 429 | \$25.69 | \$27.48 | +7.0% (\$+768) |
-| 📈 **RIOT** | 476 | \$26.48 | \$27.93 | +5.5% (\$+693) |
-| 📈 **FCEL** | 277 | \$28.71 | \$30.09 | +4.8% (\$+383) |
-| 📈 **QDEL** | 518 | \$18.51 | \$18.54 | +0.2% (\$+15) |
+| 📈 **FCEL** | 277 | \$28.71 | \$37.09 | **+29.2%** (\$+2,322) |
+| 📈 **ARQQ** | 429 | \$25.69 | \$29.58 | **+15.1%** (\$+1,669) |
+| 📈 **ABSI** | 1147 | \$10.52 | \$11.46 | +8.9% (\$+1,078) |
+| 📈 **RIOT** | 476 | \$26.48 | \$26.91 | +1.6% (\$+207) |
+| 📉 **QDEL** | 518 | \$18.51 | \$17.16 | -7.3% (\$-702) |
 
-✅ **Total open P&L: \$+2,736** across \$55,969 invested
+✅ **Total open P&L: \$+4,573** across \$57,806 invested
 
 **🌍 Market-wide news:** _(macro / geopolitics — not tied to one ticker)_
 - Applied Aerospace & Defense Gets Bullish BofA Securities Call On Space, Missile Demand
 
 <details><summary>📋 Trade History (closed trades)</summary>
 
-**Recent trades (last 10 of 41):**
+**Recent trades (last 10 of 42):**
+- ✅ **RIOT** — +1.6% (\$+207)
+    - Exit: weak position closed — slot freed, waiting for next scan
 - ❌ **SMCI** — -8.0% (\$-1,484)
     - Exit: closed at \$30.70
 - ❌ **SOFI** — -7.9% (\$-451)
@@ -52,14 +54,12 @@ _Cumulative since baseline — not today's move (see above)._
     - Exit: bear mode cut — -9.4% after 2d, not waiting for stop in weak market
 - ❌ **COIN** — -1.0% (\$-57)
     - Exit: closed at \$169.64
-- ❌ **ANET** — -1.6% (\$-94)
-    - Exit: closed at \$161.07
-_Subtotal of these 10: **\$-4,548** — the older 31 trades (incl. the biggest winners) make up the rest of the realized total below._
+_Subtotal of these 10: **\$-4,247** — the older 32 trades (incl. the biggest winners) make up the rest of the realized total below._
 
-**Record:** 41 trades, **32%** win rate, avg +1.2%, realized P&L **\$+11,349**
-- 💰 **Realized** (closed trades): \$+11,349
-- 📊 **Unrealized** (open positions right now): \$+2,736
-- **= Total account gain: \$+14,085**
+**Record:** 42 trades, **33%** win rate, avg +1.2%, realized P&L **\$+11,556**
+- 💰 **Realized** (closed trades): \$+11,556
+- 📊 **Unrealized** (open positions right now): \$+4,573
+- **= Total account gain: \$+16,130**
 
 **By strategy:**
 | Strategy | Trades | Win % | Avg P&L | Total P&L |
@@ -68,7 +68,7 @@ _Subtotal of these 10: **\$-4,548** — the older 31 trades (incl. the biggest w
 | ❌ Catalyst | 17 | 18% | -0.3% | \$-236 |
 | ✅ D — Momentum | 1 | 100% | +2.4% | \$+695 |
 | ✅ FULL | 10 | 40% | +5.2% | \$+12,247 |
-| ❌ News | 10 | 30% | -0.2% | \$-1,554 |
+| ❌ News | 11 | 36% | -0.1% | \$-1,347 |
 | ❌ UNKNOWN | 2 | 50% | -2.7% | \$-967 |
 
 </details>
@@ -81,48 +81,141 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 | Stock | Date | Signal | Prediction | Reasoning |
 |---|---|---|---|---|
-| **JPM** | Jul 14 (14d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **GS** | Jul 14 (14d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **BAC** | Jul 14 (14d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **JNJ** | Jul 15 (15d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **AA** | Jul 15 (15d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **TSM** | Jul 16 (16d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **NFLX** | Jul 16 (16d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **CLF** | Jul 20 (20d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **TSLA** | Jul 22 (22d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **NOW** | Jul 22 (22d) | analyst +1, price +8% | ⚪ Coin flip | stock trending up 7% |
-| **FCX** | Jul 22 (22d) | price -11% | ⚪ Coin flip | stock down 11% — bar lowered, could surprise |
-| **INTC** | Jul 23 (23d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **GOOGL** | Jul 23 (23d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **NEM** | Jul 23 (23d) | price -7% | ⚪ Coin flip | stock weak into report (-7%) |
-| **NOK** | Jul 23 (23d) | price -10% | ⚪ Coin flip | stock down 10% — bar lowered, could surprise |
-| **AXP** | Jul 24 (24d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **SLB** | Jul 24 (24d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **CLS** | Jul 27 (27d) | price -9% | ⚪ Coin flip | stock weak into report (-9%) |
-| **V** | Jul 28 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **UNH** | Jul 28 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **SBUX** | Jul 28 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **MARA** | Jul 28 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **SOFI** | Jul 28 (28d) | price +7% | ⚪ Coin flip | stock trending up 7% |
-| **MSFT** | Jul 29 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **QCOM** | Jul 29 (29d) | analyst +2, price -15% | 🟡 Slight edge to beat | analyst PT raise / upgrade; stock down 15% — bar lowered, could surprise |
-| **META** | Jul 29 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **ARM** | Jul 29 (29d) | price -16% | ⚪ Coin flip | stock down 16% — bar lowered, could surprise |
-| **VRT** | Jul 29 (29d) | price -14% | ⚪ Coin flip | stock down 14% — bar lowered, could surprise |
-| **APLD** | Jul 29 (29d) | price -16% | ⚪ Coin flip | stock down 16% — bar lowered, could surprise |
+| **JPM** | Jul 14 (13d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **GS** | Jul 14 (13d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **BAC** | Jul 14 (13d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **JNJ** | Jul 15 (14d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **AA** | Jul 15 (14d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **TSM** | Jul 16 (15d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **NFLX** | Jul 16 (15d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **CLF** | Jul 20 (19d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **TSLA** | Jul 22 (21d) | price +9% | ⚪ Coin flip | stock trending up 9% |
+| **NOW** | Jul 22 (21d) | analyst +1 | ⚪ Coin flip | no strong signals either way |
+| **FCX** | Jul 22 (21d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **INTC** | Jul 23 (22d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **GOOGL** | Jul 23 (22d) | analyst +3 | ⚪ Coin flip | analyst PT raise / upgrade |
+| **NEM** | Jul 23 (22d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **NOK** | Jul 23 (22d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **AXP** | Jul 24 (23d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **SLB** | Jul 24 (23d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **CLS** | Jul 27 (26d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **V** | Jul 28 (27d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **UNH** | Jul 28 (27d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **SBUX** | Jul 28 (27d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **MARA** | Jul 28 (27d) | price -8% | ⚪ Coin flip | stock weak into report (-8%) |
+| **SOFI** | Jul 28 (27d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **MSFT** | Jul 29 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **QCOM** | Jul 29 (28d) | analyst +2, price -6% | ⚪ Coin flip | analyst PT raise / upgrade; stock weak into report (-6%) |
+| **META** | Jul 29 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **ARM** | Jul 29 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **VRT** | Jul 29 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **APLD** | Jul 29 (28d) | price -14% | ⚪ Coin flip | stock down 14% — bar lowered, could surprise |
+| **AAPL** | Jul 30 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **AMZN** | Jul 30 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **MA** | Jul 30 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **ABBV** | Jul 30 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **COIN** | Jul 30 (29d) | price -7% | ⚪ Coin flip | stock weak into report (-7%) |
+| **RIOT** | Jul 30 (29d) | price -6% | ⚪ Coin flip | stock weak into report (-6%) |
+| **MSTR** | Jul 30 (29d) | analyst -4, price -16% | ⚪ Coin flip | analyst downgrade; stock down 16% — bar lowered, could surprise |
+| **KLAC** | Jul 30 (29d) | analyst +1, price +21% | ⚪ Coin flip | stock up 21% recently — bar is high |
 
 **Macro events coming up:**
 
-- **NFP** — Jul 03 (3d away)
+- **NFP** — Jul 02 (1d away)
     - Goldilocks zone: 150k–250k new jobs = market calm. Too hot (> 300k) = Fed stays hawkish → yield spike hurts tech. Too cold (< 100k) = recession fear → defensive rotation.
-- **CPI** — Jul 14 (14d away)
+- **CPI** — Jul 14 (13d away)
     - Hot CPI adds rate-hike fear and pressures growth stocks. Cool print = relief rally, especially in rate-sensitive tech.
-- **PPI** — Jul 15 (15d away)
+- **PPI** — Jul 15 (14d away)
     - Producer prices feed into CPI with a 1–2 month lag. Hot PPI = forward inflation warning. Usually less market-moving than CPI unless it surprises by > 0.3%.
 - **FOMC** — Jul 29 (29d away)
     - Market calm — Fed likely holds or hints at cuts. Growth stocks and tech tend to rally on 'no surprise' outcomes.
 
 </details>
+
+## Jun 30, 10:26 AM ET — Scan | Pi: 48.7°C
+
+**Market check:**
+- Today the S&P 500 is **up by 0.48%** 📈
+- Trend is **choppy / sideways**
+- Mood: calm (VIX 17)
+- Investors confident (broad-based)
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- Currently holding: ABSI, ARQQ, CRWD, FCEL, QDEL, RIOT
+- Scoreboard: Us **+15.94%** vs S&P 500 +1.76% (**beating** by 14.17%)
+
+**Money flowing into:** Healthcare (+8%), Industrials (+6%), Financials (+4%)
+**Money flowing out of:** Gold (-10%), Silver (-20%), Crude Oil (-22%)
+
+**Hot stocks discovered today:** ABVX
+**Full discovery list (15):** ABVX, DCOY, UPC, QDEL, FCEL, MEI, WYY, ABSI, RUN, BLZE, ARQQ, NXTS, DFTX, APGE, CAST
+
+**Looked at 80 stocks** → **3 ready to trade**.
+
+**💰 Sold since last check:**
+- ✅ **RIOT**, sold at \$26.91, +1.6% (+\$207) [NEWS]
+    - weak position closed — slot freed, waiting for next scan
+
+**Result:** ✓ Bought 1 stock(s), skipped 2. Sold 1.
+
+- ✓ **Bought CRWD at \$755.5** — solid setup (4.75/8 checks passed)
+    - **Why:** strong price pattern, more buyers than sellers, hot sector, market conditions favorable
+
+<details><summary>2 setups found but not bought (click to see why)</summary>
+
+- **PANW** — slot freed by closing RIOT, next scan will fill it
+- **AMD** — 5/5 full, all 5 positions in profit, none weak enough to replace
+
+</details>
+
+<details><summary>Notable news today</summary>
+
+- ✓ **MRVL** — strong positive news (+5)
+- ✓ **SNDK** — strong positive news (+4)
+    - _Bernstein Maintains Outperform on SanDisk, Raises Price Target to \$3000_
+- ✓ **NVDA** — positive news (+3)
+    - _Palantir In Focus: Company Strikes Nvidia Sovereign AI Deal, Deepens Surf Air Partnership_
+- ✗ **SMCI** — negative news (-2)
+
+</details>
+
+<details><summary>🔮 What-If Tracker (sentiment picks we're watching)</summary>
+
+**New picks flagged:**
+- **AMD** at \$559.06 — strong sentiment (+3)
+- **MU** at \$1154.65 — strong sentiment (+2), momentum surge (+9.8% in 5d)
+- **SNDK** at \$2169.04 — strong sentiment (+4), analyst upgrade (+3), momentum surge (+10.5% in 5d)
+- **KLAC** at \$295.07 — strong sentiment (+2), momentum surge (+20.7% in 5d)
+- **GOOGL** at \$353.34 — strong sentiment (+3), hype news detected (buy-the-rumor), analyst upgrade (+3)
+- **TSLA** at \$414.84 — strong sentiment (+2), momentum surge (+8.7% in 5d)
+- **RKLB** at \$99.64 — strong sentiment (+5), analyst upgrade (+5)
+- **ABVX** at \$131.50 — strong sentiment (+5), analyst upgrade (+3), momentum surge (+33.5% in 5d)
+- **WYY** at \$17.54 — momentum surge (+13.6% in 5d)
+- **RUN** at \$14.17 — momentum surge (+10.7% in 5d)
+
+**Tracking:**
+| Stock | Entry | Now | Peak | Day |
+|---|---|---|---|---|
+| 📈 TATT | \$44.55 | +2.9% | +2.9% | 3/5 |
+| 📈 AGYS | \$88.31 | +1.7% | +1.9% | 2/5 |
+| 📈 UMAC | \$23.85 | +9.8% | +9.8% | 2/5 |
+| 📈 QURE | \$47.45 | +1.8% | +2.8% | 3/5 |
+| 📈 MRVL | \$271.88 | +9.2% | +9.2% | 3/5 |
+| 📉 AMD | \$559.06 | +0.0% | +0.0% | 0/5 |
+| 📉 MU | \$1154.65 | +0.0% | +0.0% | 0/5 |
+| 📉 SNDK | \$2169.04 | +0.0% | +0.0% | 0/5 |
+| 📉 KLAC | \$295.07 | +0.0% | +0.0% | 0/5 |
+| 📉 GOOGL | \$353.34 | +0.0% | +0.0% | 0/5 |
+| 📉 TSLA | \$414.84 | +0.0% | +0.0% | 0/5 |
+| 📉 RKLB | \$99.64 | +0.0% | +0.0% | 0/5 |
+| 📉 ABVX | \$131.50 | +0.0% | +0.0% | 0/5 |
+| 📉 WYY | \$17.54 | +0.0% | +0.0% | 0/5 |
+| 📉 RUN | \$14.17 | +0.0% | +0.0% | 0/5 |
+
+**Track record:** 173 picks, **44%** hit rate, avg return **+0.6%**, avg peak **+6.5%**
+
+</details>
+
+---
 
 ## Jun 29, 03:51 PM ET — Scan | Pi: 48.7°C
 
@@ -131,8 +224,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: calm (VIX 18)
 - Investors confident (broad-based)
-- ⚠ **Account is 8%+ below peak (drawdown tracked) — trading continues normally**
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ABSI, ARQQ, FCEL, QDEL, RIOT
 - Scoreboard: Us **+14.18%** vs S&P 500 +1.27% (**beating** by 12.91%)
 
@@ -185,8 +277,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: calm (VIX 18)
 - Investors confident (broad-based)
-- ⚠ **Account is 8%+ below peak (drawdown tracked) — trading continues normally**
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ABSI, ARQQ, FCEL, QDEL, RIOT
 - Scoreboard: Us **+13.82%** vs S&P 500 +1.25% (**beating** by 12.57%)
 
@@ -247,8 +338,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: calm (VIX 18)
 - Investors confident (broad-based)
-- ⚠ **Account is 8%+ below peak (drawdown tracked) — trading continues normally**
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ABSI, ARQQ, FCEL, RIOT
 - Scoreboard: Us **+13.92%** vs S&P 500 +0.98% (**beating** by 12.95%)
 
@@ -316,8 +406,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 18)
 - Investors confident (broad-based)
-- ⚠ **Account is 8%+ below peak (drawdown tracked) — trading continues normally**
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ABSI, ARQQ, FCEL, RIOT
 - Scoreboard: Us **+12.88%** vs S&P 500 +0.80% (**beating** by 12.08%)
 
@@ -388,8 +477,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 19)
 - Investors confident (broad-based)
-- ⚠ **Account is 8%+ below peak (drawdown tracked) — trading continues normally**
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ABSI, FCEL, RIOT
 - Scoreboard: Us **+13.06%** vs S&P 500 +0.86% (**beating** by 12.20%)
 
@@ -470,8 +558,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 18)
 - Investors confident (broad-based)
-- ⚠ **Account is 8%+ below peak (drawdown tracked) — trading continues normally**
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ABSI, RIOT
 - Scoreboard: Us **+13.23%** vs S&P 500 +0.87% (**beating** by 12.36%)
 
@@ -574,8 +661,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 19)
 - Investors confident (broad-based)
-- ⚠ **Account is 8%+ below peak (drawdown tracked) — trading continues normally**
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ABSI, RIOT
 - Scoreboard: Us **+12.32%** vs S&P 500 +0.21% (**beating** by 12.12%)
 
@@ -651,8 +737,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 19)
 - Investors confident (broad-based)
-- ⚠ **Account is 8%+ below peak (drawdown tracked) — trading continues normally**
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ABSI, RIOT
 - Scoreboard: Us **+12.08%** vs S&P 500 +0.01% (**beating** by 12.06%)
 
@@ -731,8 +816,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 19)
 - Investors confident (broad-based)
-- ⚠ **Account is 8%+ below peak (drawdown tracked) — trading continues normally**
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: RIOT
 - Scoreboard: Us **+12.23%** vs S&P 500 +0.40% (**beating** by 11.83%)
 
@@ -806,8 +890,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 19)
 - Investors confident (broad-based)
-- ⚠ **Account is 8%+ below peak (drawdown tracked) — trading continues normally**
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: RIOT, SMCI
 - Scoreboard: Us **+12.24%** vs S&P 500 +0.17% (**beating** by 12.07%)
 
@@ -896,8 +979,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 19)
 - Investors confident (broad-based)
-- ⚠ **Account is 8%+ below peak (drawdown tracked) — trading continues normally**
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: CLS, RIOT, SMCI
 - Scoreboard: Us **+12.20%** vs S&P 500 +0.13% (**beating** by 12.07%)
 
@@ -976,8 +1058,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 20)
 - Investors confident (broad-based)
-- ⚠ **Account is 8%+ below peak (drawdown tracked) — trading continues normally**
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: CLS, RIOT, SMCI
 - Scoreboard: Us **+11.79%** vs S&P 500 -0.41% (**beating** by 12.20%)
 
@@ -1083,7 +1164,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 19)
 - Investors confident (broad-based)
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: CLS, RIOT, SMCI, TSLA
 - Scoreboard: Us **+12.63%** vs S&P 500 +0.02% (**beating** by 12.61%)
 
@@ -1266,7 +1347,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: calm (VIX 18)
 - Investors confident (broad-based)
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: CLS, SMCI, SOFI, TSLA
 - Scoreboard: Us **+12.66%** vs S&P 500 +0.79% (**beating** by 11.87%)
 
@@ -1380,7 +1461,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 20)
 - Investors confident (broad-based)
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: CLS, SMCI, SOFI, TSLA
 - Scoreboard: Us **+12.75%** vs S&P 500 +0.08% (**beating** by 12.67%)
 
@@ -1555,7 +1636,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 19)
 - Investors confident (broad-based)
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: TSLA
 - Scoreboard: Us **+14.38%** vs S&P 500 +0.63% (**beating** by 13.75%)
 
@@ -1675,7 +1756,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 19)
 - Investors confident (broad-based)
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: FCX, TSLA
 - Scoreboard: Us **+14.87%** vs S&P 500 +0.43% (**beating** by 14.44%)
 
@@ -1838,7 +1919,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 20)
 - Investors confident (broad-based)
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: FCX, MU, NVDA
 - Scoreboard: Us **+14.76%** vs S&P 500 +0.31% (**beating** by 14.45%)
 
@@ -1949,7 +2030,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: calm (VIX 17)
 - Investors confident (broad-based)
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ANET, FCX, MARA, MU, NVDA
 - Scoreboard: Us **+18.77%** vs S&P 500 +1.67% (**beating** by 17.09%)
 
@@ -2102,7 +2183,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: calm (VIX 17)
 - Investors confident (broad-based)
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ANET, FCX, MU, NVDA
 - Scoreboard: Us **+19.02%** vs S&P 500 +2.38% (**beating** by 16.64%)
 
@@ -2209,7 +2290,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: calm (VIX 17)
 - Investors confident (broad-based)
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ANET, FCX, MRVL, MU, NVDA
 - Scoreboard: Us **+18.60%** vs S&P 500 +2.08% (**beating** by 16.52%)
 
@@ -2343,7 +2424,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: calm (VIX 17)
 - Investors confident (broad-based)
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ANET, FCX, MRVL, MU, NVDA
 - Scoreboard: Us **+18.60%** vs S&P 500 +2.08% (**beating** by 16.52%)
 
@@ -2441,7 +2522,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: calm (VIX 17)
 - Investors confident (broad-based)
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ANET, FCX, MRVL, MU, NVDA
 - Scoreboard: Us **+19.15%** vs S&P 500 +2.11% (**beating** by 17.04%)
 
@@ -2587,7 +2668,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: calm (VIX 17)
 - Investors confident (broad-based)
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ANET, FCX, MRVL, MU, NVDA
 - Scoreboard: Us **+18.55%** vs S&P 500 +2.15% (**beating** by 16.40%)
 
@@ -2702,7 +2783,7 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 - Trend is **choppy / sideways**
 - Mood: a bit nervous (VIX 18)
 - Investors confident (broad-based)
-- ⚠ **Bear mode on — conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
 - Currently holding: ANET, FCX, MRVL, MU, NVDA
 - Scoreboard: Us **+16.33%** vs S&P 500 +1.26% (**beating** by 15.06%)
 
@@ -2822,49 +2903,3 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 </details>
 
 ---
-
-## Jun 17, 11:07 AM ET — News check | Pi: 48.7°C
-
-**Market check:**
-- Today the S&P 500 is **down by 0.18%** 📉
-- Currently holding: ANET, FCX, MRVL
-- Scoreboard: Us **+17.26%** vs S&P 500 +2.42% (**beating** by 14.85%)
-
-**💰 Sold since last check:**
-- ❌ **COIN**, sold at \$169.84, -0.9% (-\$50) [CATALYST]
-    - bear mode cut — -0.9% after 2d, not waiting for stop in weak market
-- ❌ **QBTS**, sold at \$23.6, -9.4% (-\$549) [CATALYST]
-    - bear mode cut — -9.4% after 2d, not waiting for stop in weak market
-
-**Result:** Sold 2 (see above), no new buys.
-<details><summary>Notable news today</summary>
-
-- ✓ **COIN** — strong positive news (+5)
-- ✓ **GOOGL** — positive news (+3)
-- ✓ **PLTR** — positive news (+3)
-    - _Wolfe Research Upgrades Palantir Technologies to Peer Perform_
-- ✗ **SPY** — negative news (-3)
-
-</details>
-
----
-
-
-## 📈 Market Movers — did we miss a sign?
-
-- • **UPC** +324.0% (\$12.55)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 36, below 20-MA, 5d +0%
-    - Why not us: not on the watchlist
-    - Catalyst (news +1): _[~] 12 Health Care Stocks Moving In Monday's Intraday Session_
-- 🚀 **SDOT** +75.3% (\$37.6)
-    - Sign: YES — B setup fired the day before  |  pre-move RSI 60, below 20-MA, 5d +32%
-    - Why not us: not on the watchlist
-    - Catalyst (news -1): _[~] Sadot Group Shares Halted On Circuit Breaker To The Upside, Stock Now Up 29.51%_
-- • **DCOY** +71.3% (\$9.45)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 39, below 20-MA, 5d -3%
-    - Why not us: not on the watchlist
-    - Catalyst (news +3): _[~] 12 Health Care Stocks Moving In Monday's Intraday Session_
-- • **ASTX** +40.8% (\$26.07)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 39, below 20-MA, 5d -24%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _No recent news_
