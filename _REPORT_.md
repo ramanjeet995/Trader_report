@@ -1,7 +1,7 @@
 # AI Trader — Daily Log
 
 What the robot saw and did each time it woke up. Newest at top.
-_Last updated: Jun 30, 2026 at 03:52 PM ET_
+_Last updated: Jul 01, 2026 at 08:31 AM ET_
 
 📱 [Ask Claude about this on your phone](../PHONE_README.md)
 
@@ -12,21 +12,21 @@ _Leaders: AMD +8.2%, CRWD +2.7%, TSLA +2.5%_
 _Cumulative since baseline — not today's move (see above)._
 | | Return | Value |
 |---|---|---|
-| 📈 **Our Portfolio** | **+16.40%** | \$116,396.10 |
-| 📈 S&P 500 (SPY) | +2.10% | \$746.92 |
-| ✅ **Alpha** | **+14.29%** | Beating the market |
+| 📈 **Our Portfolio** | **+15.97%** | \$115,970.02 |
+| 📈 S&P 500 (SPY) | +2.07% | \$746.65 |
+| ✅ **Alpha** | **+13.90%** | Beating the market |
 
 ### Current Portfolio
 
 | Stock | Shares | Bought at | Current | P&L |
 |---|---|---|---|---|
-| 📈 **FCEL** | 277 | \$28.71 | \$36.09 | **+25.7%** (\$+2,046) |
-| 📈 **ARQQ** | 429 | \$25.69 | \$30.09 | **+17.1%** (\$+1,888) |
-| 📈 **ABSI** | 1147 | \$10.52 | \$11.54 | +9.7% (\$+1,170) |
-| 📈 **CRWD** | 28 | \$755.76 | \$762.79 | +0.9% (\$+197) |
-| 📉 **QDEL** | 518 | \$18.51 | \$17.36 | -6.2% (\$-599) |
+| 📈 **FCEL** | 277 | \$28.71 | \$36.02 | **+25.5%** (\$+2,025) |
+| 📈 **ARQQ** | 429 | \$25.69 | \$29.39 | **+14.4%** (\$+1,587) |
+| 📈 **ABSI** | 1147 | \$10.52 | \$11.39 | +8.3% (\$+998) |
+| 📈 **CRWD** | 28 | \$755.76 | \$768.50 | +1.7% (\$+357) |
+| 📉 **QDEL** | 518 | \$18.51 | \$17.26 | -6.8% (\$-649) |
 
-✅ **Total open P&L: \$+4,702** across \$66,491 invested
+✅ **Total open P&L: \$+4,318** across \$66,108 invested
 
 **🌍 Market-wide news:** _(macro / geopolitics — not tied to one ticker)_
 - Gold Bulls May Need Fed Rate Cuts More Than Geopolitical Tensions
@@ -58,8 +58,8 @@ _Subtotal of these 10: **\$-4,250** — the older 32 trades (incl. the biggest w
 
 **Record:** 42 trades, **33%** win rate, avg +1.2%, realized P&L **\$+11,554**
 - 💰 **Realized** (closed trades): \$+11,554
-- 📊 **Unrealized** (open positions right now): \$+4,702
-- **= Total account gain: \$+16,256**
+- 📊 **Unrealized** (open positions right now): \$+4,318
+- **= Total account gain: \$+15,872**
 
 **By strategy:**
 | Strategy | Trades | Win % | Avg P&L | Total P&L |
@@ -131,6 +131,38 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
     - Market calm — Fed likely holds or hints at cuts. Growth stocks and tech tend to rally on 'no surprise' outcomes.
 
 </details>
+
+## Jul 01, 08:31 AM ET — Pre-market check | Pi: 49.2°C
+
+**Market check:**
+- Trend is **choppy / sideways**
+- Currently holding: ABSI, ARQQ, CRWD, FCEL, QDEL
+- Scoreboard: Us **+15.97%** vs S&P 500 +2.07% (**beating** by 13.90%)
+
+**S&P 500 pre-market:** -0.18% 📉
+
+**📌 Your positions:**
+- ✅ **ABSI** — steady, no overnight news
+- ✅ **ARQQ** — steady, no overnight news
+- ✅ **CRWD** — steady, no overnight news
+- ✅ **FCEL** — steady, no overnight news
+- ✅ **QDEL** — steady, no overnight news
+
+**👀 Watchlist (not held):**
+- ✗ **NVDA** — neutral news (-1)
+    - _Anthropic Is Going All In on Drug Discovery Just as Pharma Stops Talking About AI_
+- ✗ **MU** — negative news (-2), gapping -2.9%
+    - _Micron, Palo Alto, Apple And A Health Care Stock On CNBC’s ‘Final Trades’_
+- ✗ **MRVL** — negative news (-2), gapping -2.0%
+    - _What's Going on With Marvell Technology Stock Wednesday?_
+- ✗ **SNDK** — negative news (-2), gapping -4.6%
+    - _Jim Cramer Says Mag 7 Slump 'Hurt'— Then a Cheese Salesman Thanked Him for a \$13 Million Nvidia Win_
+- ✗ **META** — negative news (-3)
+    - _Apollo's Top Economist Issues Grim Warning As AI Boom Risks a 'Painful Repricing' If Returns Don't Arrive Fast Enough_
+- ✓ **GOOGL** — neutral news (+1)
+    - _Apollo's Top Economist Issues Grim Warning As AI Boom Risks a 'Painful Repricing' If Returns Don't Arrive Fast Enough_
+
+---
 
 ## Jun 30, 03:52 PM ET — Scan | Pi: 50.6°C
 
@@ -2946,113 +2978,3 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 **Result:** No trades today.
 ---
-
-## Jun 18, 09:36 AM ET — Scan | Pi: 48.7°C
-
-> 🩺 **System health:**
-> - ⚠ Volume patching 0/83 — running on thin IEX volume (surge detection + liquidity gate degraded)
-
-**Market check:**
-- Today the S&P 500 is **up by 0.84%** 📈
-- Trend is **choppy / sideways**
-- Mood: calm (VIX 17)
-- Investors confident (broad-based)
-- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
-- Currently holding: ANET, FCX, MRVL, MU, NVDA
-- Scoreboard: Us **+18.55%** vs S&P 500 +2.15% (**beating** by 16.40%)
-
-**Money flowing into:** Industrials (+7%), Financials (+5%), Materials (+4%)
-**Money flowing out of:** Energy (-9%), Silver (-12%), Crude Oil (-21%)
-
-**Hot stocks discovered today:** CAST, SWBI
-**Full discovery list (15):** CAST, SWBI, QURE, HQ, CUPR, FRD, HOFT, OCC, INHD, SDOT, TNGX, MPAA, STI, MRLN, BBCP
-
-**Looked at 71 stocks** → **4 ready to trade**.
-
-**Result:** Found 4 setup(s), but didn't buy any.
-
-
-<details><summary>4 setups found but not bought (click to see why)</summary>
-
-- **ARM** — 5/2 full, all 2 positions in profit, none weak enough to replace
-- **DELL** — 5/2 full, all 2 positions in profit, none weak enough to replace
-- **NBIS** — 5/2 full, all 2 positions in profit, none weak enough to replace
-- **AMD** — 5/2 full, all 2 positions in profit, none weak enough to replace
-
-</details>
-
-<details><summary>Notable news today</summary>
-
-- ✓ **MU** — strong positive news (+5)
-- ✓ **MRVL** — strong positive news (+4)
-    - _Keybanc Maintains Overweight on Marvell Technology, Raises Price Target to \$385_
-- ✓ **NVDA** — positive news (+3)
-    - _Intel Stock Soars After Trump Reveals Apple Partnership — The Chart Points To More Upside_
-
-</details>
-
-<details><summary>🔮 What-If Tracker (sentiment picks we're watching)</summary>
-
-**New picks flagged:**
-- **NBIS** at \$296.39 — momentum surge (+33.3% in 5d)
-- **COIN** at \$166.54 — strong sentiment (+5), analyst upgrade (+4)
-- **CAST** at \$10.76 — strong sentiment (+2), momentum surge (+1627.4% in 5d)
-- **SWBI** at \$17.38 — strong sentiment (+2), momentum surge (+18.7% in 5d)
-
-**Tracking:**
-| Stock | Entry | Now | Peak | Day |
-|---|---|---|---|---|
-| 📈 TATT | \$44.55 | +2.9% | +2.9% | 3/5 |
-| 📈 AGYS | \$88.31 | +1.7% | +1.9% | 2/5 |
-| 📈 UMAC | \$23.85 | +9.8% | +9.8% | 2/5 |
-| 📈 DELL | \$412.76 | +4.9% | +4.9% | 4/5 |
-| 📉 RGTI | \$22.07 | -6.6% | +0.0% | 4/5 |
-| 📉 MSTR | \$130.60 | -11.5% | +0.0% | 4/5 |
-| 📈 AMD | \$512.50 | +4.1% | +4.1% | 3/5 |
-| 📉 PLTR | \$132.95 | -2.6% | +0.0% | 3/5 |
-| 📉 HPE | \$49.61 | -1.1% | +0.0% | 2/5 |
-| 📈 CEG | \$265.70 | +2.5% | +2.5% | 2/5 |
-| 📈 QURE | \$44.02 | +12.4% | +12.4% | 2/5 |
-| 📈 AVGO | \$391.57 | +4.6% | +4.6% | 1/5 |
-| 📈 ARM | \$423.49 | +5.7% | +5.7% | 1/5 |
-| 📈 APLD | \$45.72 | +3.1% | +3.1% | 1/5 |
-| 📈 GOOGL | \$364.49 | +0.1% | +0.1% | 1/5 |
-| 📈 QBTS | \$23.16 | +1.5% | +1.5% | 1/5 |
-| 📉 NBIS | \$296.39 | +0.0% | +0.0% | 0/5 |
-| 📉 COIN | \$166.54 | +0.0% | +0.0% | 0/5 |
-| 📉 CAST | \$10.76 | +0.0% | +0.0% | 0/5 |
-| 📉 SWBI | \$17.38 | +0.0% | +0.0% | 0/5 |
-
-**Track record:** 114 picks, **48%** hit rate, avg return **+2.4%**, avg peak **+8.1%**
-
-</details>
-
----
-
-
-## 📈 Market Movers — did we miss a sign?
-
-- • **GIBO** +1831.2% (\$24.14)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 38, below 20-MA, 5d -7%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _[~] Trading Halt: Halt status updated at 8:55:00 AM ET: Quotation Resumption: News and Resumption Times_
-- • **SMCC** +339.8% (\$27.3)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 41, below 20-MA, 5d +0%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _No recent news_
-- • **CUPR** +50.2% (\$6.7)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 55, below 20-MA, 5d +13%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _[~] 12 Health Care Stocks Moving In Tuesday's Intraday Session_
-- • **ABVX** +38.8% (\$133.45)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 44, below 20-MA, 5d -6%
-    - Why not us: not on the watchlist
-    - Catalyst (news +5): _[~] 12 Health Care Stocks Moving In Tuesday's Intraday Session_
-- • **AVXX** +36.8% (\$6.92)
-    - Sign: NO — was oversold/falling (reversal bounce, not a momentum signal)  |  pre-move RSI 34, below 20-MA, 5d -15%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _No recent news_
-- • **CRCD** +35.2% (\$6.96)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 53, below 20-MA, 5d +6%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _No recent news_
