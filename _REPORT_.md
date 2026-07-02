@@ -1,39 +1,40 @@
 # AI Trader — Daily Log
 
 What the robot saw and did each time it woke up. Newest at top.
-_Last updated: Jul 02, 2026 at 08:31 AM ET_
+_Last updated: Jul 02, 2026 at 09:35 AM ET_
 
 📱 [Ask Claude about this on your phone](../PHONE_README.md)
 
-**Market today:** ➡️ S&P 500 **-0.02%** (flat), Nasdaq **-1.30%** — rotation (tech vs rest diverging)
-_Biggest drags: MU -9.1%, AMD -6.3%, AVGO -1.7%_
+**Market today:** 📈 S&P 500 **+0.34%** (up), Nasdaq **+0.02%** — broad-based rally
+_Leaders: COIN +5.1%, PLTR +3.9%, NFLX +2.2%_
 
 ### Performance since 2026-05-07
 _Cumulative since baseline — not today's move (see above)._
 | | Return | Value |
 |---|---|---|
-| 📉 **Our Portfolio** | **-0.94%** | \$99,062.41 |
-| 📈 S&P 500 (SPY) | +1.93% | \$745.66 |
-| ❌ **Alpha** | **-2.87%** | Behind the market |
+| 📉 **Our Portfolio** | **-0.48%** | \$99,520.41 |
+| 📈 S&P 500 (SPY) | +2.28% | \$748.23 |
+| ❌ **Alpha** | **-2.76%** | Behind the market |
 
 ### Current Portfolio
 
 | Stock | Shares | Bought at | Current | P&L |
 |---|---|---|---|---|
-| 📈 **SOFI** | 680 | \$18.51 | \$18.71 | +1.1% (\$+136) |
-| 📉 **ABSI** | 403 | \$11.30 | \$11.20 | -0.9% (\$-40) |
-| 📉 **QDEL** | 518 | \$18.51 | \$18.17 | -1.8% (\$-177) |
-| 📉 **SNOW** | 44 | \$262.72 | \$257.80 | -1.9% (\$-216) |
-| 📉 **CRWD** | 28 | \$755.76 | \$192.42 | **-74.5%** (\$-15,773) |
+| 📈 **SOFI** | 680 | \$18.51 | \$18.99 | +2.6% (\$+326) |
+| 📉 **ABSI** | 403 | \$11.30 | \$11.24 | -0.5% (\$-24) |
+| 📉 **SNOW** | 44 | \$262.72 | \$258.52 | -1.6% (\$-185) |
+| 📉 **QDEL** | 518 | \$18.51 | \$18.02 | -2.6% (\$-254) |
 
-❌ **Total open P&L: \$-16,071** across \$43,379 invested
+❌ **Total open P&L: \$-137** across \$38,152 invested
 
 **🌍 Market-wide news:** _(macro / geopolitics — not tied to one ticker)_
-- Watching Walmart; Shares Trading Lower, Traders Circulate Research Note Saying Walmart's U.S. Comparable Sales “Appear To Have Slowed To Some Degree” With A Potential Risk To Consensus Estimates Depending On How July Plays Out; Co Appears To Be Working To Reduce Inventory Through Price Adjustments, Using Tariff Refunds To Offset Lower Prices
+- Fed's Daly Says Housing Inflation Has Been Coming Down In U.S.
 
 <details><summary>📋 Trade History (closed trades)</summary>
 
-**Recent trades (last 10 of 45):**
+**Recent trades (last 10 of 46):**
+- ❌ **CRWD** — -74.5% (\$-15,759)
+    - Exit: 🛑 stop-loss hit
 - ✅ **ARQQ** — +10.3% (\$+1,137)
     - Exit: 📈 trailing stop — locked in profit (stop was raised)
 - ✅ **FCEL** — +22.4% (\$+1,782)
@@ -52,21 +53,19 @@ _Cumulative since baseline — not today's move (see above)._
     - Exit: closed at \$373.85
 - ❌ **MARA** — -10.7% (\$-636)
     - Exit: 🛑 stop-loss hit
-- ✅ **MU** — +0.1% (\$+13)
-    - Exit: 📈 trailing stop — locked in profit (stop was raised)
-_Subtotal of these 10: **\$+298** — the older 35 trades (incl. the biggest winners) make up the rest of the realized total below._
+_Subtotal of these 10: **\$-15,474** — the older 36 trades (incl. the biggest winners) make up the rest of the realized total below._
 
-**Record:** 45 trades, **38%** win rate, avg +2.0%, realized P&L **\$+15,138**
-- 💰 **Realized** (closed trades): \$+15,138
-- 📊 **Unrealized** (open positions right now): \$-16,071
-- **= Total account gain: \$-933**
+**Record:** 46 trades, **37%** win rate, avg +0.3%, realized P&L **\$-621**
+- 💰 **Realized** (closed trades): \$-621
+- 📊 **Unrealized** (open positions right now): \$-137
+- **= Total account gain: \$-758**
 
 **By strategy:**
 | Strategy | Trades | Win % | Avg P&L | Total P&L |
 |---|---|---|---|---|
 | ✅ B — Breakout | 1 | 100% | +7.1% | \$+1,164 |
 | ❌ Catalyst | 17 | 18% | -0.3% | \$-236 |
-| ✅ D — Momentum | 4 | 100% | +10.2% | \$+4,278 |
+| ❌ D — Momentum | 5 | 80% | -6.8% | \$-11,480 |
 | ✅ FULL | 10 | 40% | +5.2% | \$+12,247 |
 | ❌ News | 11 | 36% | -0.1% | \$-1,349 |
 | ❌ UNKNOWN | 2 | 50% | -2.7% | \$-967 |
@@ -81,60 +80,133 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 | Stock | Date | Signal | Prediction | Reasoning |
 |---|---|---|---|---|
-| **JPM** | Jul 14 (12d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **GS** | Jul 14 (12d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **BAC** | Jul 14 (12d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **JNJ** | Jul 15 (13d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **AA** | Jul 15 (13d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **TSM** | Jul 16 (14d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **NFLX** | Jul 16 (14d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **CLF** | Jul 20 (18d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **TSLA** | Jul 22 (20d) | price +14% | ⚪ Coin flip | stock trending up 14% |
-| **NOW** | Jul 22 (20d) | analyst +2, price +14% | 🟡 Slight edge to beat | analyst PT raise / upgrade; stock trending up 14% |
-| **FCX** | Jul 22 (20d) | analyst +3 | ⚪ Coin flip | analyst PT raise / upgrade |
-| **INTC** | Jul 23 (21d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **GOOGL** | Jul 23 (21d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **NEM** | Jul 23 (21d) | analyst -3 | 🔴 Miss risk | analyst downgrade |
-| **NOK** | Jul 23 (21d) | price -6% | ⚪ Coin flip | stock weak into report (-6%) |
-| **AXP** | Jul 24 (22d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **SLB** | Jul 24 (22d) | analyst -5 | 🔴 Miss risk | analyst downgrade |
-| **CLS** | Jul 27 (25d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **V** | Jul 28 (26d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **UNH** | Jul 28 (26d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **SBUX** | Jul 28 (26d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **MARA** | Jul 28 (26d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **SOFI** | Jul 28 (26d) | price +7% | ⚪ Coin flip | stock trending up 7% |
-| **MSFT** | Jul 29 (27d) | price +6% | ⚪ Coin flip | stock trending up 5% |
-| **QCOM** | Jul 29 (27d) | analyst +2, price -7% | ⚪ Coin flip | analyst PT raise / upgrade; stock weak into report (-7%) |
-| **META** | Jul 29 (27d) | price +10% | ⚪ Coin flip | stock trending up 10% |
-| **ARM** | Jul 29 (27d) | price -6% | ⚪ Coin flip | stock weak into report (-6%) |
-| **VRT** | Jul 29 (27d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **APLD** | Jul 29 (27d) | price -15% | ⚪ Coin flip | stock down 15% — bar lowered, could surprise |
-| **AAPL** | Jul 30 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **AMZN** | Jul 30 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **MA** | Jul 30 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **ABBV** | Jul 30 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
-| **COIN** | Jul 30 (28d) | price +7% | ⚪ Coin flip | stock trending up 7% |
-| **RIOT** | Jul 30 (28d) | price -12% | ⚪ Coin flip | stock down 12% — bar lowered, could surprise |
-| **MSTR** | Jul 30 (28d) | analyst -5 | 🔴 Miss risk | analyst downgrade |
-| **KLAC** | Jul 30 (28d) | analyst +1, price +9% | ⚪ Coin flip | stock trending up 9% |
-| **XOM** | Jul 31 (29d) | analyst -3 | 🔴 Miss risk | analyst downgrade |
-| **CVX** | Jul 31 (29d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **JPM** | Jul 14 (11d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **GS** | Jul 14 (11d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **BAC** | Jul 14 (11d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **JNJ** | Jul 15 (12d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **AA** | Jul 15 (12d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **TSM** | Jul 16 (13d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **NFLX** | Jul 16 (13d) | price +7% | ⚪ Coin flip | stock trending up 7% |
+| **CLF** | Jul 20 (17d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **TSLA** | Jul 22 (19d) | price +14% | ⚪ Coin flip | stock trending up 14% |
+| **NOW** | Jul 22 (19d) | analyst +1, price +19% | ⚪ Coin flip | stock up 19% recently — bar is high |
+| **FCX** | Jul 22 (19d) | analyst +3 | ⚪ Coin flip | analyst PT raise / upgrade |
+| **INTC** | Jul 23 (20d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **GOOGL** | Jul 23 (20d) | analyst -3 | 🔴 Miss risk | analyst downgrade |
+| **NEM** | Jul 23 (20d) | analyst -3 | 🔴 Miss risk | analyst downgrade |
+| **NOK** | Jul 23 (20d) | price -9% | ⚪ Coin flip | stock weak into report (-9%) |
+| **AXP** | Jul 24 (21d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **SLB** | Jul 24 (21d) | analyst -5 | 🔴 Miss risk | analyst downgrade |
+| **CLS** | Jul 27 (24d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **V** | Jul 28 (25d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **UNH** | Jul 28 (25d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **SBUX** | Jul 28 (25d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **MARA** | Jul 28 (25d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **SOFI** | Jul 28 (25d) | price +9% | ⚪ Coin flip | stock trending up 9% |
+| **MSFT** | Jul 29 (26d) | price +9% | ⚪ Coin flip | stock trending up 9% |
+| **QCOM** | Jul 29 (26d) | analyst +2, price -10% | 🟡 Slight edge to beat | analyst PT raise / upgrade; stock down 10% — bar lowered, could surprise |
+| **META** | Jul 29 (26d) | analyst +3, price +11% | 🟡 Slight edge to beat | analyst PT raise / upgrade; stock trending up 11% |
+| **ARM** | Jul 29 (26d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **VRT** | Jul 29 (26d) | price -7% | ⚪ Coin flip | stock weak into report (-7%) |
+| **APLD** | Jul 29 (26d) | price -14% | ⚪ Coin flip | stock down 14% — bar lowered, could surprise |
+| **AAPL** | Jul 30 (27d) | price +9% | ⚪ Coin flip | stock trending up 9% |
+| **AMZN** | Jul 30 (27d) | analyst +3, price +7% | 🟡 Slight edge to beat | analyst PT raise / upgrade; stock trending up 7% |
+| **MA** | Jul 30 (27d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **ABBV** | Jul 30 (27d) | neutral | ⚪ Coin flip | no strong signals either way |
+| **COIN** | Jul 30 (27d) | price +18% | ⚪ Coin flip | stock up 18% recently — bar is high |
+| **RIOT** | Jul 30 (27d) | price -16% | ⚪ Coin flip | stock down 16% — bar lowered, could surprise |
+| **MSTR** | Jul 30 (27d) | analyst -5, price +17% | ⚪ Coin flip | analyst downgrade; stock up 17% recently — bar is high |
+| **KLAC** | Jul 30 (27d) | analyst +1 | ⚪ Coin flip | no strong signals either way |
+| **XOM** | Jul 31 (28d) | analyst -3 | 🔴 Miss risk | analyst downgrade |
+| **CVX** | Jul 31 (28d) | neutral | ⚪ Coin flip | no strong signals either way |
 
 **Macro events coming up:**
 
-- **NFP** — Jul 02 (0d away)
-    - Goldilocks zone: 150k–250k new jobs = market calm. Too hot (> 300k) = Fed stays hawkish → yield spike hurts tech. Too cold (< 100k) = recession fear → defensive rotation.
-- **CPI** — Jul 14 (12d away)
+- **CPI** — Jul 14 (11d away)
     - Hot CPI adds rate-hike fear and pressures growth stocks. Cool print = relief rally, especially in rate-sensitive tech.
-- **PPI** — Jul 15 (13d away)
+- **PPI** — Jul 15 (12d away)
     - Producer prices feed into CPI with a 1–2 month lag. Hot PPI = forward inflation warning. Usually less market-moving than CPI unless it surprises by > 0.3%.
 - **FOMC** — Jul 29 (27d away)
     - Market calm — Fed likely holds or hints at cuts. Growth stocks and tech tend to rally on 'no surprise' outcomes.
-- **PCE** — Jul 31 (29d away)
+- **PCE** — Jul 31 (28d away)
     - Fed's preferred inflation gauge — more important than CPI for rate decisions. Core PCE < 2.5% = green light for cuts → risk-on. Above 3% = Fed patience extends → growth stocks struggle.
 
 </details>
+
+## Jul 02, 09:35 AM ET — Scan | Pi: 51.6°C
+
+**Market check:**
+- Today the S&P 500 is **up by 0.34%** 📈
+- Trend is **choppy / sideways**
+- Mood: calm (VIX 16)
+- Investors confident (broad-based)
+- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
+- Currently holding: ABSI, QDEL, SNOW, SOFI
+- Scoreboard: Us **-0.48%** vs S&P 500 +2.28% (behind by 2.76%)
+
+**Money flowing into:** Financials (+6%), Healthcare (+6%), Industrials (+5%)
+**Money flowing out of:** Energy (-9%), Silver (-17%), Crude Oil (-25%)
+
+**Looked at 80 stocks** → none qualified.
+
+**💰 Sold since last check:**
+- ❌ **CRWD**, sold at \$192.94, -74.5% (-\$15,759) [D]
+    - 🛑 stop-loss hit
+
+**Result:** Sold 1 (see above), no new buys.
+<details><summary>Notable news today</summary>
+
+- ✓ **MU** — positive news (+3)
+    - _President Trump Posts On Truth Social "How about this? Micron, a GREAT American Company, announced that they are putting in 250 Million Dollars into the Trump Accounts for the future benefit of children, and their stock went up 9 points today. ..."_
+- ✓ **TSLA** — positive news (+3)
+- ✓ **LUNR** — positive news (+3)
+    - _Intuitive Machines Shares Rise As NASA Deal Boosts Lunar Expansion Plans_
+
+</details>
+
+<details><summary>🔮 What-If Tracker (sentiment picks we're watching)</summary>
+
+**New picks flagged:**
+- **META** at \$602.14 — analyst upgrade (+3)
+- **AMZN** at \$242.92 — analyst upgrade (+3)
+- **NOW** at \$106.25 — momentum surge (+18.7% in 5d)
+- **PLTR** at \$130.63 — strong sentiment (+4), analyst upgrade (+2), momentum surge (+21.7% in 5d)
+- **PANW** at \$350.47 — strong sentiment (+5), analyst upgrade (+5), momentum surge (+19.6% in 5d)
+- **GDX** at \$78.29 — hype news detected (buy-the-rumor)
+- **RDW** at \$11.89 — strong sentiment (+2), momentum surge (+10.1% in 5d)
+- **ASTS** at \$87.86 — momentum surge (+33.9% in 5d)
+- **LUNR** at \$20.02 — strong sentiment (+3)
+
+**Tracking:**
+| Stock | Entry | Now | Peak | Day |
+|---|---|---|---|---|
+| 📈 TATT | \$44.55 | +2.9% | +2.9% | 3/5 |
+| 📈 AGYS | \$88.31 | +1.7% | +1.9% | 2/5 |
+| 📈 UMAC | \$23.85 | +9.8% | +9.8% | 2/5 |
+| 📈 QURE | \$47.45 | +1.8% | +2.8% | 3/5 |
+| 📉 QCOM | \$185.60 | -1.1% | +0.0% | 4/5 |
+| 📉 DCOY | \$7.40 | -1.2% | +0.0% | 4/5 |
+| 📈 TSLA | \$426.59 | +0.1% | +0.1% | 3/5 |
+| 📈 COIN | \$162.57 | +3.0% | +3.0% | 3/5 |
+| 📉 MRVL | \$274.12 | -2.1% | +0.2% | 2/5 |
+| 📈 FCX | \$60.72 | +1.4% | +1.4% | 2/5 |
+| 📈 KTOS | \$52.66 | +7.3% | +7.3% | 2/5 |
+| 📉 JEM | \$4.62 | -23.4% | +0.0% | 2/5 |
+| 📉 META | \$602.14 | +0.0% | +0.0% | 0/5 |
+| 📉 AMZN | \$242.92 | +0.0% | +0.0% | 0/5 |
+| 📉 NOW | \$106.25 | +0.0% | +0.0% | 0/5 |
+| 📉 PLTR | \$130.63 | +0.0% | +0.0% | 0/5 |
+| 📉 PANW | \$350.47 | +0.0% | +0.0% | 0/5 |
+| 📉 GDX | \$78.29 | +0.0% | +0.0% | 0/5 |
+| 📉 RDW | \$11.89 | +0.0% | +0.0% | 0/5 |
+| 📉 ASTS | \$87.86 | +0.0% | +0.0% | 0/5 |
+| 📉 LUNR | \$20.02 | +0.0% | +0.0% | 0/5 |
+
+**Track record:** 200 picks, **44%** hit rate, avg return **+0.3%**, avg peak **+6.0%**
+
+</details>
+
+---
 
 ## Jul 02, 08:31 AM ET — Pre-market check | Pi: 49.7°C
 
@@ -3243,15 +3315,4 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 </details>
 
----
-
-## Jun 19, 11:00 AM ET — Catalyst check | Pi: 34.6°C
-
-**Market check:**
-- Today the S&P 500 is **up by 0.77%** 📈
-- Trend is **choppy / sideways**
-- Currently holding: ANET, FCX, MRVL, MU, NVDA
-- Scoreboard: Us **+18.60%** vs S&P 500 +2.08% (**beating** by 16.52%)
-
-**Result:** No trades today.
 ---
