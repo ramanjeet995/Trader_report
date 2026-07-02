@@ -1,7 +1,7 @@
 # AI Trader — Daily Log
 
 What the robot saw and did each time it woke up. Newest at top.
-_Last updated: Jul 01, 2026 at 03:52 PM ET_
+_Last updated: Jul 02, 2026 at 08:31 AM ET_
 
 📱 [Ask Claude about this on your phone](../PHONE_README.md)
 
@@ -12,21 +12,21 @@ _Biggest drags: MU -9.1%, AMD -6.3%, AVGO -1.7%_
 _Cumulative since baseline — not today's move (see above)._
 | | Return | Value |
 |---|---|---|
-| 📈 **Our Portfolio** | **+15.36%** | \$115,360.80 |
-| 📈 S&P 500 (SPY) | +2.05% | \$746.52 |
-| ✅ **Alpha** | **+13.31%** | Beating the market |
+| 📉 **Our Portfolio** | **-0.94%** | \$99,062.41 |
+| 📈 S&P 500 (SPY) | +1.93% | \$745.66 |
+| ❌ **Alpha** | **-2.87%** | Behind the market |
 
 ### Current Portfolio
 
 | Stock | Shares | Bought at | Current | P&L |
 |---|---|---|---|---|
-| 📈 **CRWD** | 28 | \$755.76 | \$771.26 | +2.0% (\$+434) |
-| 📈 **SOFI** | 680 | \$18.51 | \$18.52 | +0.1% (\$+10) |
-| 📉 **SNOW** | 44 | \$262.72 | \$260.53 | -0.8% (\$-96) |
-| 📉 **QDEL** | 518 | \$18.51 | \$18.15 | -1.9% (\$-187) |
-| 📉 **ABSI** | 403 | \$11.30 | \$11.04 | -2.3% (\$-103) |
+| 📈 **SOFI** | 680 | \$18.51 | \$18.71 | +1.1% (\$+136) |
+| 📉 **ABSI** | 403 | \$11.30 | \$11.20 | -0.9% (\$-40) |
+| 📉 **QDEL** | 518 | \$18.51 | \$18.17 | -1.8% (\$-177) |
+| 📉 **SNOW** | 44 | \$262.72 | \$257.80 | -1.9% (\$-216) |
+| 📉 **CRWD** | 28 | \$755.76 | \$192.42 | **-74.5%** (\$-15,773) |
 
-✅ **Total open P&L: \$+58** across \$59,509 invested
+❌ **Total open P&L: \$-16,071** across \$43,379 invested
 
 **🌍 Market-wide news:** _(macro / geopolitics — not tied to one ticker)_
 - Watching Walmart; Shares Trading Lower, Traders Circulate Research Note Saying Walmart's U.S. Comparable Sales “Appear To Have Slowed To Some Degree” With A Potential Risk To Consensus Estimates Depending On How July Plays Out; Co Appears To Be Working To Reduce Inventory Through Price Adjustments, Using Tariff Refunds To Offset Lower Prices
@@ -58,8 +58,8 @@ _Subtotal of these 10: **\$+298** — the older 35 trades (incl. the biggest win
 
 **Record:** 45 trades, **38%** win rate, avg +2.0%, realized P&L **\$+15,138**
 - 💰 **Realized** (closed trades): \$+15,138
-- 📊 **Unrealized** (open positions right now): \$+58
-- **= Total account gain: \$+15,196**
+- 📊 **Unrealized** (open positions right now): \$-16,071
+- **= Total account gain: \$-933**
 
 **By strategy:**
 | Strategy | Trades | Win % | Avg P&L | Total P&L |
@@ -135,6 +135,38 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
     - Fed's preferred inflation gauge — more important than CPI for rate decisions. Core PCE < 2.5% = green light for cuts → risk-on. Above 3% = Fed patience extends → growth stocks struggle.
 
 </details>
+
+## Jul 02, 08:31 AM ET — Pre-market check | Pi: 49.7°C
+
+**Market check:**
+- Trend is **choppy / sideways**
+- Currently holding: ABSI, CRWD, QDEL, SNOW, SOFI
+- Scoreboard: Us **-0.94%** vs S&P 500 +1.93% (behind by 2.87%)
+
+**S&P 500 pre-market:** +0.37% 📈
+
+**📌 Your positions:**
+- ✅ **ABSI** — steady, no overnight news
+- 📉 **CRWD** — -75.1% pre-market
+- ✅ **QDEL** — steady, no overnight news
+- ✅ **SNOW** — steady, no overnight news
+- ✅ **SOFI** — steady, no overnight news
+
+**👀 Watchlist (not held):**
+- ✓ **NVDA** — neutral news (+1)
+    - _Why Is Palantir Technologies Stock Surging Thursday?_
+- ✓ **ARM** — neutral news (+1)
+    - _SoftBank Reopens Talks for \$10 Billion Loan Backed by OpenAI Stake After Adding Repayment Guarantee to Ease Banks' Valuation Concerns: Report_
+- ✓ **MU** — neutral news (+1), gapping +3.0%
+    - _What's Going on With Micron Technology Stock Thursday?_
+- ✗ **QCOM** — neutral news (-1)
+    - _Amazon Is Quietly Building its Own AI Chips As Devices Chief Panos Panay Reveals a Bigger Bet Beyond Qualcomm_
+- ✗ **NBIS** — neutral news (-1), gapping +4.0%
+    - _What's Going on With Nebius Group Stock Thursday?_
+- ✓ **META** — neutral news (+1), gapping -1.1%
+    - _What's Going on With Nebius Group Stock Thursday?_
+
+---
 
 ## Jul 01, 03:52 PM ET — Scan | Pi: 52.6°C
 
@@ -3223,101 +3255,3 @@ _Predictions are based on current signals — analyst upgrades, news sentiment, 
 
 **Result:** No trades today.
 ---
-
-## Jun 19, 09:36 AM ET — Scan | Pi: 46.7°C
-
-> 🩺 **System health:**
-> - ⚠ Volume patching 0/83 — running on thin IEX volume (surge detection + liquidity gate degraded)
-
-**Market check:**
-- Today the S&P 500 is **up by 0.77%** 📈
-- Trend is **choppy / sideways**
-- Mood: calm (VIX 17)
-- Investors confident (broad-based)
-- ⚠ **Choppy market — defensive: conviction 4+, reduced risk per trade, replace only when a setup clearly out-convicts the weakest holding**
-- Currently holding: ANET, FCX, MRVL, MU, NVDA
-- Scoreboard: Us **+18.60%** vs S&P 500 +2.08% (**beating** by 16.52%)
-
-**Money flowing into:** Industrials (+6%), Natural Gas (+4%), Materials (+4%)
-**Money flowing out of:** Energy (-9%), Silver (-14%), Crude Oil (-19%)
-
-**Looked at 71 stocks** → **4 ready to trade**.
-
-**Result:** Found 4 setup(s), but didn't buy any.
-
-
-<details><summary>4 setups found but not bought (click to see why)</summary>
-
-- **QURE** — market closed
-- **NBIS** — market closed
-- **ARM** — market closed
-- **AMD** — market closed
-
-</details>
-
-<details><summary>Notable news today</summary>
-
-- ✓ **MU** — strong positive news (+5)
-- ✓ **MRVL** — strong positive news (+4)
-- ✓ **NVDA** — positive news (+2)
-
-</details>
-
-<details><summary>🔮 What-If Tracker (sentiment picks we're watching)</summary>
-
-**Tracking:**
-| Stock | Entry | Now | Peak | Day |
-|---|---|---|---|---|
-| 📈 TATT | \$44.55 | +2.9% | +2.9% | 3/5 |
-| 📈 AGYS | \$88.31 | +1.7% | +1.9% | 2/5 |
-| 📈 UMAC | \$23.85 | +9.8% | +9.8% | 2/5 |
-| 📉 HPE | \$49.61 | -4.4% | +0.0% | 4/5 |
-| 📈 CEG | \$265.70 | +3.2% | +3.4% | 4/5 |
-| 📈 QURE | \$44.02 | +5.1% | +12.4% | 4/5 |
-| 📈 AVGO | \$391.57 | +5.0% | +5.0% | 3/5 |
-| 📈 ARM | \$423.49 | +3.7% | +5.7% | 3/5 |
-| 📈 APLD | \$45.72 | +1.9% | +3.1% | 3/5 |
-| 📈 GOOGL | \$364.49 | +0.9% | +1.3% | 3/5 |
-| 📈 QBTS | \$23.16 | +6.6% | +6.6% | 3/5 |
-| 📉 NBIS | \$296.39 | -3.1% | +0.0% | 2/5 |
-| 📉 COIN | \$166.54 | -1.9% | +0.0% | 2/5 |
-| 📉 CAST | \$10.76 | -25.2% | +0.0% | 2/5 |
-| 📉 SWBI | \$17.38 | -7.4% | +0.0% | 2/5 |
-
-**Track record:** 119 picks, **48%** hit rate, avg return **+2.1%**, avg peak **+7.9%**
-
-</details>
-
----
-
-
-## 📈 Market Movers — did we miss a sign?
-
-- 🚀 **SDOT** +109.2% (\$73.42)
-    - Sign: YES — D setup fired the day before  |  pre-move RSI 68, below 20-MA, 5d +250%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _[~] Why Are Sadot Shares Trading Higher On Tuesday?_
-- • **NBIZ** +32.6% (\$8.9)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 48, below 20-MA, 5d -5%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _No recent news_
-- • **WTO** +30.0% (\$9.28)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 88, below 20-MA, 5d +25%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _[~] UTime Changes Ticker Symbol From 'WTO' To 'FXHO'_
-- • **SKIL** +29.5% (\$6.71)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 38, below 20-MA, 5d -25%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _[~] 12 Industrials Stocks Moving In Wednesday's Intraday Session_
-- • **CORD** +28.7% (\$7.07)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 49, below 20-MA, 5d +11%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _No recent news_
-- • **RDTL** +27.0% (\$26.66)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 52, below 20-MA, 5d +8%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _No recent news_
-- • **ALIT** +26.2% (\$14.14)
-    - Sign: NO clean technical setup beforehand  |  pre-move RSI 40, below 20-MA, 5d +8%
-    - Why not us: not on the watchlist
-    - Catalyst (news +0): _No recent news_
